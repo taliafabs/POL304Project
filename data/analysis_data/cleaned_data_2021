@@ -1,0 +1,2011 @@
+riding_num,riding_name,party,percent_votes_received,percentage_point_margin
+10001,Avalon,Liberal,50.1,15.8
+10001,Avalon,Conservative,34.3,NA
+10001,Avalon,NDP-New Democratic Party,13.9,NA
+10001,Avalon,Other,1.7,NA
+10002,Bonavista--Burin--Trinity,Liberal,46.6,5.6
+10002,Bonavista--Burin--Trinity,Conservative,40.9,NA
+10002,Bonavista--Burin--Trinity,NDP-New Democratic Party,8.3,NA
+10002,Bonavista--Burin--Trinity,Other,4.2,NA
+10003,Coast of Bays--Central--Notre Dame,Conservative,46.9,0.9
+10003,Coast of Bays--Central--Notre Dame,Liberal,46,NA
+10003,Coast of Bays--Central--Notre Dame,NDP-New Democratic Party,7.1,NA
+10004,Labrador,Liberal,42.7,12.3
+10004,Labrador,Conservative,30.4,NA
+10004,Labrador,NDP-New Democratic Party,23.8,NA
+10004,Labrador,Other,3.2,NA
+10005,Long Range Mountains,Liberal,44.4,5
+10005,Long Range Mountains,Conservative,39.4,NA
+10005,Long Range Mountains,NDP-New Democratic Party,11.9,NA
+10005,Long Range Mountains,Other,4.3,NA
+10006,St. John's East/St. John's-Est,Liberal,45.2,10.9
+10006,St. John's East/St. John's-Est,NDP-New Democratic Party,34.3,NA
+10006,St. John's East/St. John's-Est,Conservative,18.7,NA
+10006,St. John's East/St. John's-Est,Other,1.9,NA
+10007,St. John's South--Mount Pearl/St. John's-Sud--Mount Pearl,Liberal,56.2,32.8
+10007,St. John's South--Mount Pearl/St. John's-Sud--Mount Pearl,NDP-New Democratic Party,23.4,NA
+10007,St. John's South--Mount Pearl/St. John's-Sud--Mount Pearl,Conservative,18.6,NA
+10007,St. John's South--Mount Pearl/St. John's-Sud--Mount Pearl,Other,1.8,NA
+11001,Cardigan,Liberal,50.6,19.7
+11001,Cardigan,Conservative,30.9,NA
+11001,Cardigan,NDP-New Democratic Party,9.8,NA
+11001,Cardigan,Green Party,4.8,NA
+11001,Cardigan,Other,3.3,NA
+11001,Cardigan,Other,0.7,NA
+11002,Charlottetown,Liberal,46.7,15.6
+11002,Charlottetown,Conservative,31.1,NA
+11002,Charlottetown,NDP-New Democratic Party,10.7,NA
+11002,Charlottetown,Green Party,9.6,NA
+11002,Charlottetown,Other,1.9,NA
+11003,Egmont,Liberal,46.2,15.1
+11003,Egmont,Conservative,31.1,NA
+11003,Egmont,Green Party,9.1,NA
+11003,Egmont,NDP-New Democratic Party,8.6,NA
+11003,Egmont,Other,5,NA
+11004,Malpeque,Liberal,41.8,8.8
+11004,Malpeque,Conservative,33.1,NA
+11004,Malpeque,Green Party,14.3,NA
+11004,Malpeque,NDP-New Democratic Party,8,NA
+11004,Malpeque,Other,2.9,NA
+12001,Cape Breton--Canso,Liberal,46.5,11.4
+12001,Cape Breton--Canso,Conservative,35.1,NA
+12001,Cape Breton--Canso,NDP-New Democratic Party,14.3,NA
+12001,Cape Breton--Canso,Other,4.2,NA
+12002,Central Nova/Nova-Centre,Liberal,46.2,13.9
+12002,Central Nova/Nova-Centre,Conservative,32.3,NA
+12002,Central Nova/Nova-Centre,NDP-New Democratic Party,15.4,NA
+12002,Central Nova/Nova-Centre,Other,3.6,NA
+12002,Central Nova/Nova-Centre,Green Party,1.2,NA
+12002,Central Nova/Nova-Centre,Other,0.9,NA
+12002,Central Nova/Nova-Centre,Other,0.3,NA
+12002,Central Nova/Nova-Centre,Other,0.2,NA
+12003,Cumberland--Colchester,Conservative,46,11.8
+12003,Cumberland--Colchester,Liberal,34.2,NA
+12003,Cumberland--Colchester,NDP-New Democratic Party,12.3,NA
+12003,Cumberland--Colchester,Other,4.2,NA
+12003,Cumberland--Colchester,Green Party,2.6,NA
+12003,Cumberland--Colchester,Other,0.7,NA
+12004,Dartmouth--Cole Harbour,Liberal,53.1,19.6
+12004,Dartmouth--Cole Harbour,NDP-New Democratic Party,33.5,NA
+12004,Dartmouth--Cole Harbour,Other,10.5,NA
+12004,Dartmouth--Cole Harbour,Green Party,3,NA
+12005,Halifax,Liberal,42.7,3
+12005,Halifax,NDP-New Democratic Party,39.7,NA
+12005,Halifax,Conservative,12.9,NA
+12005,Halifax,Green Party,2.2,NA
+12005,Halifax,Other,2.1,NA
+12005,Halifax,Other,0.4,NA
+12006,Halifax West/Halifax-Ouest,Liberal,48.5,24.3
+12006,Halifax West/Halifax-Ouest,NDP-New Democratic Party,24.2,NA
+12006,Halifax West/Halifax-Ouest,Conservative,22,NA
+12006,Halifax West/Halifax-Ouest,Other,2.8,NA
+12006,Halifax West/Halifax-Ouest,Green Party,2.3,NA
+12006,Halifax West/Halifax-Ouest,Other,0.2,NA
+12007,Kings--Hants,Liberal,44.9,15.5
+12007,Kings--Hants,Conservative,29.4,NA
+12007,Kings--Hants,NDP-New Democratic Party,19.2,NA
+12007,Kings--Hants,Other,4.3,NA
+12007,Kings--Hants,Green Party,2.1,NA
+12008,Sackville--Preston--Chezzetcook,Liberal,41.3,14.9
+12008,Sackville--Preston--Chezzetcook,Conservative,26.4,NA
+12008,Sackville--Preston--Chezzetcook,NDP-New Democratic Party,26.3,NA
+12008,Sackville--Preston--Chezzetcook,Other,3.9,NA
+12008,Sackville--Preston--Chezzetcook,Green Party,2,NA
+12009,South Shore--St. Margarets,Conservative,40.9,3.8
+12009,South Shore--St. Margarets,Liberal,37.1,NA
+12009,South Shore--St. Margarets,NDP-New Democratic Party,19.1,NA
+12009,South Shore--St. Margarets,Green Party,2.9,NA
+12010,Sydney--Victoria,Liberal,39.2,3
+12010,Sydney--Victoria,Conservative,36.3,NA
+12010,Sydney--Victoria,NDP-New Democratic Party,19.9,NA
+12010,Sydney--Victoria,Other,3.2,NA
+12010,Sydney--Victoria,Green Party,1,NA
+12010,Sydney--Victoria,Other,0.3,NA
+12011,West Nova/Nova-Ouest,Conservative,50.4,19.1
+12011,West Nova/Nova-Ouest,Liberal,31.3,NA
+12011,West Nova/Nova-Ouest,NDP-New Democratic Party,12.9,NA
+12011,West Nova/Nova-Ouest,Other,5.4,NA
+13001,Acadie--Bathurst,Liberal,64.8,51
+13001,Acadie--Bathurst,Conservative,13.8,NA
+13001,Acadie--Bathurst,NDP-New Democratic Party,11.4,NA
+13001,Acadie--Bathurst,Other,5.9,NA
+13001,Acadie--Bathurst,Green Party,2.8,NA
+13001,Acadie--Bathurst,Other,1.3,NA
+13002,Beauséjour,Liberal,55.6,36.2
+13002,Beauséjour,Conservative,19.4,NA
+13002,Beauséjour,NDP-New Democratic Party,11,NA
+13002,Beauséjour,Other,7.6,NA
+13002,Beauséjour,Green Party,5.7,NA
+13002,Beauséjour,Other,0.8,NA
+13003,Fredericton,Liberal,37,1.1
+13003,Fredericton,Conservative,35.9,NA
+13003,Fredericton,Green Party,12.9,NA
+13003,Fredericton,NDP-New Democratic Party,12.6,NA
+13003,Fredericton,Other,0.7,NA
+13003,Fredericton,Other,0.5,NA
+13003,Fredericton,Other,0.4,NA
+13004,Fundy Royal,Conservative,48.4,23.4
+13004,Fundy Royal,Liberal,25,NA
+13004,Fundy Royal,NDP-New Democratic Party,14,NA
+13004,Fundy Royal,Other,7.8,NA
+13004,Fundy Royal,Green Party,4.9,NA
+13005,Madawaska--Restigouche,Liberal,55.2,29.3
+13005,Madawaska--Restigouche,Conservative,25.8,NA
+13005,Madawaska--Restigouche,Other,6.2,NA
+13005,Madawaska--Restigouche,NDP-New Democratic Party,6,NA
+13005,Madawaska--Restigouche,Other,4.2,NA
+13005,Madawaska--Restigouche,Green Party,2.6,NA
+13006,Miramichi--Grand Lake,Conservative,43.7,4.5
+13006,Miramichi--Grand Lake,Liberal,39.3,NA
+13006,Miramichi--Grand Lake,NDP-New Democratic Party,7,NA
+13006,Miramichi--Grand Lake,Other,5.7,NA
+13006,Miramichi--Grand Lake,Green Party,4.3,NA
+13007,Moncton--Riverview--Dieppe,Liberal,49.1,25.7
+13007,Moncton--Riverview--Dieppe,Conservative,23.4,NA
+13007,Moncton--Riverview--Dieppe,NDP-New Democratic Party,17,NA
+13007,Moncton--Riverview--Dieppe,Other,6.3,NA
+13007,Moncton--Riverview--Dieppe,Green Party,4.2,NA
+13008,New Brunswick Southwest/Nouveau-Brunswick-Sud-Ouest,Conservative,50,26.1
+13008,New Brunswick Southwest/Nouveau-Brunswick-Sud-Ouest,Liberal,23.9,NA
+13008,New Brunswick Southwest/Nouveau-Brunswick-Sud-Ouest,NDP-New Democratic Party,13.4,NA
+13008,New Brunswick Southwest/Nouveau-Brunswick-Sud-Ouest,Other,8.4,NA
+13008,New Brunswick Southwest/Nouveau-Brunswick-Sud-Ouest,Green Party,4.3,NA
+13009,Saint John--Rothesay,Liberal,46.4,13.5
+13009,Saint John--Rothesay,Conservative,32.9,NA
+13009,Saint John--Rothesay,NDP-New Democratic Party,12.9,NA
+13009,Saint John--Rothesay,Other,5.3,NA
+13009,Saint John--Rothesay,Green Party,2.5,NA
+13010,Tobique--Mactaquac,Conservative,51,27.1
+13010,Tobique--Mactaquac,Liberal,23.9,NA
+13010,Tobique--Mactaquac,NDP-New Democratic Party,10.6,NA
+13010,Tobique--Mactaquac,Other,8.5,NA
+13010,Tobique--Mactaquac,Green Party,4.8,NA
+13010,Tobique--Mactaquac,Other,1.2,NA
+24001,Abitibi--Baie-James--Nunavik--Eeyou,Bloc Québécois/Bloc Québécois,37.9,12
+24001,Abitibi--Baie-James--Nunavik--Eeyou,Liberal,26,NA
+24001,Abitibi--Baie-James--Nunavik--Eeyou,Conservative,15.9,NA
+24001,Abitibi--Baie-James--Nunavik--Eeyou,NDP-New Democratic Party,11.7,NA
+24001,Abitibi--Baie-James--Nunavik--Eeyou,Other,3.8,NA
+24001,Abitibi--Baie-James--Nunavik--Eeyou,Other,2.1,NA
+24001,Abitibi--Baie-James--Nunavik--Eeyou,Green Party,1.6,NA
+24001,Abitibi--Baie-James--Nunavik--Eeyou,Other,1.2,NA
+24002,Abitibi--Témiscamingue,Bloc Québécois/Bloc Québécois,50.6,26.5
+24002,Abitibi--Témiscamingue,Liberal,24.1,NA
+24002,Abitibi--Témiscamingue,Conservative,11.7,NA
+24002,Abitibi--Témiscamingue,NDP-New Democratic Party,6.1,NA
+24002,Abitibi--Témiscamingue,Other,3.4,NA
+24002,Abitibi--Témiscamingue,Other,1.9,NA
+24002,Abitibi--Témiscamingue,Green Party,1.6,NA
+24002,Abitibi--Témiscamingue,Other,0.6,NA
+24003,Ahuntsic-Cartierville,Liberal,52.4,30.3
+24003,Ahuntsic-Cartierville,Bloc Québécois/Bloc Québécois,22,NA
+24003,Ahuntsic-Cartierville,NDP-New Democratic Party,11.6,NA
+24003,Ahuntsic-Cartierville,Conservative,8.4,NA
+24003,Ahuntsic-Cartierville,Green Party,3,NA
+24003,Ahuntsic-Cartierville,Other,2.6,NA
+24004,Alfred-Pellan,Liberal,47.8,21.7
+24004,Alfred-Pellan,Bloc Québécois/Bloc Québécois,26.1,NA
+24004,Alfred-Pellan,Conservative,13.6,NA
+24004,Alfred-Pellan,NDP-New Democratic Party,7.7,NA
+24004,Alfred-Pellan,Other,2.9,NA
+24004,Alfred-Pellan,Green Party,1.8,NA
+24005,Argenteuil--La Petite-Nation,Liberal,38.3,3
+24005,Argenteuil--La Petite-Nation,Bloc Québécois/Bloc Québécois,35.3,NA
+24005,Argenteuil--La Petite-Nation,Conservative,12.9,NA
+24005,Argenteuil--La Petite-Nation,NDP-New Democratic Party,6.7,NA
+24005,Argenteuil--La Petite-Nation,Other,5.5,NA
+24005,Argenteuil--La Petite-Nation,Other,1.4,NA
+24006,Avignon--La Mitis--Matane--Matapédia,Bloc Québécois/Bloc Québécois,59.8,38.3
+24006,Avignon--La Mitis--Matane--Matapédia,Liberal,21.5,NA
+24006,Avignon--La Mitis--Matane--Matapédia,Conservative,8.8,NA
+24006,Avignon--La Mitis--Matane--Matapédia,NDP-New Democratic Party,4.5,NA
+24006,Avignon--La Mitis--Matane--Matapédia,Other,2.9,NA
+24006,Avignon--La Mitis--Matane--Matapédia,Other,2.5,NA
+24007,Beauce,Conservative,48.3,30.1
+24007,Beauce,Other,18.2,NA
+24007,Beauce,Bloc Québécois/Bloc Québécois,15.2,NA
+24007,Beauce,Liberal,12.3,NA
+24007,Beauce,NDP-New Democratic Party,2.9,NA
+24007,Beauce,Other,1.9,NA
+24007,Beauce,Green Party,0.9,NA
+24007,Beauce,Other,0.4,NA
+24008,Beauport--Limoilou,Bloc Québécois/Bloc Québécois,31.1,2
+24008,Beauport--Limoilou,Conservative,29.1,NA
+24008,Beauport--Limoilou,Liberal,25.4,NA
+24008,Beauport--Limoilou,NDP-New Democratic Party,10.4,NA
+24008,Beauport--Limoilou,Green Party,2.1,NA
+24008,Beauport--Limoilou,Other,1.5,NA
+24008,Beauport--Limoilou,Other,0.2,NA
+24020,Beauport-Côte-de-Beaupré-Île d'Orléans-Charlevoix,Bloc Québécois/Bloc Québécois,38.4,6.6
+24020,Beauport-Côte-de-Beaupré-Île d'Orléans-Charlevoix,Conservative,31.9,NA
+24020,Beauport-Côte-de-Beaupré-Île d'Orléans-Charlevoix,Liberal,20.7,NA
+24020,Beauport-Côte-de-Beaupré-Île d'Orléans-Charlevoix,NDP-New Democratic Party,4.5,NA
+24020,Beauport-Côte-de-Beaupré-Île d'Orléans-Charlevoix,Other,1.8,NA
+24020,Beauport-Côte-de-Beaupré-Île d'Orléans-Charlevoix,Green Party,1.5,NA
+24020,Beauport-Côte-de-Beaupré-Île d'Orléans-Charlevoix,Other,0.9,NA
+24020,Beauport-Côte-de-Beaupré-Île d'Orléans-Charlevoix,Other,0.5,NA
+24009,Bécancour--Nicolet--Saurel,Bloc Québécois/Bloc Québécois,54.8,37.9
+24009,Bécancour--Nicolet--Saurel,Liberal,16.9,NA
+24009,Bécancour--Nicolet--Saurel,Conservative,16.8,NA
+24009,Bécancour--Nicolet--Saurel,NDP-New Democratic Party,5.1,NA
+24009,Bécancour--Nicolet--Saurel,Other,2.4,NA
+24009,Bécancour--Nicolet--Saurel,Other,2.4,NA
+24009,Bécancour--Nicolet--Saurel,Green Party,1.5,NA
+24010,Bellechasse--Les Etchemins--Lévis,Conservative,51,27.8
+24010,Bellechasse--Les Etchemins--Lévis,Bloc Québécois/Bloc Québécois,23.2,NA
+24010,Bellechasse--Les Etchemins--Lévis,Liberal,15.9,NA
+24010,Bellechasse--Les Etchemins--Lévis,NDP-New Democratic Party,5,NA
+24010,Bellechasse--Les Etchemins--Lévis,Other,2.8,NA
+24010,Bellechasse--Les Etchemins--Lévis,Green Party,1.5,NA
+24010,Bellechasse--Les Etchemins--Lévis,Other,0.5,NA
+24011,Beloeil--Chambly,Bloc Québécois/Bloc Québécois,53.1,29.4
+24011,Beloeil--Chambly,Liberal,23.7,NA
+24011,Beloeil--Chambly,Conservative,8.7,NA
+24011,Beloeil--Chambly,NDP-New Democratic Party,8.5,NA
+24011,Beloeil--Chambly,Other,2,NA
+24011,Beloeil--Chambly,Green Party,2,NA
+24011,Beloeil--Chambly,Other,1.2,NA
+24011,Beloeil--Chambly,Other,0.3,NA
+24011,Beloeil--Chambly,Other,0.3,NA
+24011,Beloeil--Chambly,Other,0.2,NA
+24012,Berthier--Maskinongé,Bloc Québécois/Bloc Québécois,35.2,1.7
+24012,Berthier--Maskinongé,NDP-New Democratic Party,33.5,NA
+24012,Berthier--Maskinongé,Liberal,15.3,NA
+24012,Berthier--Maskinongé,Conservative,10.9,NA
+24012,Berthier--Maskinongé,Other,2.7,NA
+24012,Berthier--Maskinongé,Other,1,NA
+24012,Berthier--Maskinongé,Green Party,1,NA
+24012,Berthier--Maskinongé,Other,0.4,NA
+24015,Bourassa,Liberal,60.4,41.7
+24015,Bourassa,Bloc Québécois/Bloc Québécois,18.7,NA
+24015,Bourassa,NDP-New Democratic Party,8,NA
+24015,Bourassa,Conservative,7,NA
+24015,Bourassa,Other,3.7,NA
+24015,Bourassa,Green Party,1.8,NA
+24015,Bourassa,Other,0.4,NA
+24016,Brome--Missisquoi,Liberal,35,0.3
+24016,Brome--Missisquoi,Bloc Québécois/Bloc Québécois,34.6,NA
+24016,Brome--Missisquoi,Conservative,16.2,NA
+24016,Brome--Missisquoi,NDP-New Democratic Party,6.2,NA
+24016,Brome--Missisquoi,Other,3.2,NA
+24016,Brome--Missisquoi,Green Party,2.4,NA
+24016,Brome--Missisquoi,Other,1.6,NA
+24016,Brome--Missisquoi,Other,0.4,NA
+24016,Brome--Missisquoi,Other,0.2,NA
+24016,Brome--Missisquoi,Other,0.2,NA
+24017,Brossard--Saint-Lambert,Liberal,54.1,34.2
+24017,Brossard--Saint-Lambert,Bloc Québécois/Bloc Québécois,19.9,NA
+24017,Brossard--Saint-Lambert,Conservative,12,NA
+24017,Brossard--Saint-Lambert,NDP-New Democratic Party,10.4,NA
+24017,Brossard--Saint-Lambert,Other,2.5,NA
+24017,Brossard--Saint-Lambert,Other,1.1,NA
+24019,Charlesbourg--Haute-Saint-Charles,Conservative,44.7,19.9
+24019,Charlesbourg--Haute-Saint-Charles,Bloc Québécois/Bloc Québécois,24.8,NA
+24019,Charlesbourg--Haute-Saint-Charles,Liberal,19.7,NA
+24019,Charlesbourg--Haute-Saint-Charles,NDP-New Democratic Party,6,NA
+24019,Charlesbourg--Haute-Saint-Charles,Other,2.3,NA
+24019,Charlesbourg--Haute-Saint-Charles,Green Party,1.7,NA
+24019,Charlesbourg--Haute-Saint-Charles,Other,0.8,NA
+24021,Châteauguay--Lacolle,Liberal,37,0
+24021,Châteauguay--Lacolle,Bloc Québécois/Bloc Québécois,37,NA
+24021,Châteauguay--Lacolle,Conservative,11.4,NA
+24021,Châteauguay--Lacolle,NDP-New Democratic Party,7.7,NA
+24021,Châteauguay--Lacolle,Other,3.7,NA
+24021,Châteauguay--Lacolle,Green Party,1.6,NA
+24021,Châteauguay--Lacolle,Other,0.9,NA
+24021,Châteauguay--Lacolle,Other,0.6,NA
+24022,Chicoutimi--Le Fjord,Conservative,41,7.6
+24022,Chicoutimi--Le Fjord,Bloc Québécois/Bloc Québécois,33.4,NA
+24022,Chicoutimi--Le Fjord,Liberal,18.3,NA
+24022,Chicoutimi--Le Fjord,NDP-New Democratic Party,4.6,NA
+24022,Chicoutimi--Le Fjord,Other,1.5,NA
+24022,Chicoutimi--Le Fjord,Green Party,1.1,NA
+24023,Compton--Stanstead,Liberal,36.7,6.1
+24023,Compton--Stanstead,Bloc Québécois/Bloc Québécois,30.6,NA
+24023,Compton--Stanstead,Conservative,17.5,NA
+24023,Compton--Stanstead,NDP-New Democratic Party,7.4,NA
+24023,Compton--Stanstead,Other,3.7,NA
+24023,Compton--Stanstead,Green Party,2.8,NA
+24023,Compton--Stanstead,Other,1,NA
+24023,Compton--Stanstead,Other,0.3,NA
+24024,Dorval--Lachine--LaSalle,Liberal,52.4,36.7
+24024,Dorval--Lachine--LaSalle,Bloc Québécois/Bloc Québécois,15.7,NA
+24024,Dorval--Lachine--LaSalle,NDP-New Democratic Party,13,NA
+24024,Dorval--Lachine--LaSalle,Conservative,12,NA
+24024,Dorval--Lachine--LaSalle,Other,4.2,NA
+24024,Dorval--Lachine--LaSalle,Green Party,2.8,NA
+24025,Drummond,Bloc Québécois/Bloc Québécois,46.6,27.8
+24025,Drummond,Liberal,18.8,NA
+24025,Drummond,Conservative,17.9,NA
+24025,Drummond,NDP-New Democratic Party,11.2,NA
+24025,Drummond,Other,3.4,NA
+24025,Drummond,Other,1.3,NA
+24025,Drummond,Other,0.8,NA
+24026,Gaspésie--Les Îles-de-la-Madeleine,Liberal,46.4,7.1
+24026,Gaspésie--Les Îles-de-la-Madeleine,Bloc Québécois/Bloc Québécois,39.3,NA
+24026,Gaspésie--Les Îles-de-la-Madeleine,Conservative,8.2,NA
+24026,Gaspésie--Les Îles-de-la-Madeleine,NDP-New Democratic Party,3.7,NA
+24026,Gaspésie--Les Îles-de-la-Madeleine,Other,1.7,NA
+24026,Gaspésie--Les Îles-de-la-Madeleine,Other,0.8,NA
+24027,Gatineau,Liberal,50,26.6
+24027,Gatineau,Bloc Québécois/Bloc Québécois,23.4,NA
+24027,Gatineau,Conservative,11,NA
+24027,Gatineau,NDP-New Democratic Party,8.6,NA
+24027,Gatineau,Other,4.3,NA
+24027,Gatineau,Green Party,1.5,NA
+24027,Gatineau,Other,0.8,NA
+24027,Gatineau,Other,0.3,NA
+24027,Gatineau,Other,0.1,NA
+24028,Hochelaga,Liberal,38.1,6.5
+24028,Hochelaga,Bloc Québécois/Bloc Québécois,31.6,NA
+24028,Hochelaga,NDP-New Democratic Party,20.4,NA
+24028,Hochelaga,Conservative,4.7,NA
+24028,Hochelaga,Other,2.3,NA
+24028,Hochelaga,Green Party,2,NA
+24028,Hochelaga,Other,0.5,NA
+24028,Hochelaga,Other,0.2,NA
+24028,Hochelaga,Other,0.2,NA
+24029,Honoré-Mercier,Liberal,60,43.6
+24029,Honoré-Mercier,Bloc Québécois/Bloc Québécois,16.3,NA
+24029,Honoré-Mercier,Conservative,10.5,NA
+24029,Honoré-Mercier,NDP-New Democratic Party,7.3,NA
+24029,Honoré-Mercier,Other,4.2,NA
+24029,Honoré-Mercier,Green Party,1.5,NA
+24029,Honoré-Mercier,Other,0.2,NA
+24030,Hull--Aylmer,Liberal,52.5,36.2
+24030,Hull--Aylmer,Bloc Québécois/Bloc Québécois,16.2,NA
+24030,Hull--Aylmer,NDP-New Democratic Party,12.7,NA
+24030,Hull--Aylmer,Conservative,10.7,NA
+24030,Hull--Aylmer,Other,3.6,NA
+24030,Hull--Aylmer,Green Party,2.8,NA
+24030,Hull--Aylmer,Other,0.7,NA
+24030,Hull--Aylmer,Other,0.4,NA
+24030,Hull--Aylmer,Other,0.3,NA
+24031,Joliette,Bloc Québécois/Bloc Québécois,55,32.4
+24031,Joliette,Liberal,22.7,NA
+24031,Joliette,Conservative,9.5,NA
+24031,Joliette,NDP-New Democratic Party,5.5,NA
+24031,Joliette,Other,3.2,NA
+24031,Joliette,Green Party,2,NA
+24031,Joliette,Other,1.8,NA
+24031,Joliette,Other,0.4,NA
+24032,Jonquière,Bloc Québécois/Bloc Québécois,41.9,12.8
+24032,Jonquière,Conservative,29.1,NA
+24032,Jonquière,Liberal,21,NA
+24032,Jonquière,NDP-New Democratic Party,5.6,NA
+24032,Jonquière,Green Party,1.6,NA
+24032,Jonquière,Other,0.8,NA
+24033,La Pointe-de-l'Île,Bloc Québécois/Bloc Québécois,46.7,14.3
+24033,La Pointe-de-l'Île,Liberal,32.3,NA
+24033,La Pointe-de-l'Île,NDP-New Democratic Party,9.7,NA
+24033,La Pointe-de-l'Île,Conservative,6.7,NA
+24033,La Pointe-de-l'Île,Other,2.7,NA
+24033,La Pointe-de-l'Île,Other,1.1,NA
+24033,La Pointe-de-l'Île,Other,0.4,NA
+24033,La Pointe-de-l'Île,Other,0.3,NA
+24034,La Prairie,Bloc Québécois/Bloc Québécois,43.7,9.1
+24034,La Prairie,Liberal,34.6,NA
+24034,La Prairie,Conservative,9.9,NA
+24034,La Prairie,NDP-New Democratic Party,7.3,NA
+24034,La Prairie,Other,2.6,NA
+24034,La Prairie,Green Party,1.7,NA
+24034,La Prairie,Other,0.2,NA
+24035,Lac-Saint-Jean,Bloc Québécois/Bloc Québécois,50.7,25
+24035,Lac-Saint-Jean,Conservative,25.7,NA
+24035,Lac-Saint-Jean,Liberal,18.7,NA
+24035,Lac-Saint-Jean,NDP-New Democratic Party,3.3,NA
+24035,Lac-Saint-Jean,Green Party,1.6,NA
+24036,Lac-Saint-Louis,Liberal,56.3,37.4
+24036,Lac-Saint-Louis,Conservative,18.9,NA
+24036,Lac-Saint-Louis,NDP-New Democratic Party,13.3,NA
+24036,Lac-Saint-Louis,Bloc Québécois/Bloc Québécois,5.3,NA
+24036,Lac-Saint-Louis,Green Party,3.2,NA
+24036,Lac-Saint-Louis,Other,3,NA
+24037,LaSalle--Émard--Verdun,Liberal,42.9,20.8
+24037,LaSalle--Émard--Verdun,Bloc Québécois/Bloc Québécois,22.1,NA
+24037,LaSalle--Émard--Verdun,NDP-New Democratic Party,19.4,NA
+24037,LaSalle--Émard--Verdun,Conservative,7.5,NA
+24037,LaSalle--Émard--Verdun,Other,3.4,NA
+24037,LaSalle--Émard--Verdun,Green Party,3,NA
+24037,LaSalle--Émard--Verdun,Other,1.3,NA
+24037,LaSalle--Émard--Verdun,Other,0.4,NA
+24038,Laurentides--Labelle,Bloc Québécois/Bloc Québécois,50.1,25.2
+24038,Laurentides--Labelle,Liberal,24.9,NA
+24038,Laurentides--Labelle,Conservative,10.6,NA
+24038,Laurentides--Labelle,NDP-New Democratic Party,6.1,NA
+24038,Laurentides--Labelle,Other,3.8,NA
+24038,Laurentides--Labelle,Green Party,2.4,NA
+24038,Laurentides--Labelle,Other,1.8,NA
+24038,Laurentides--Labelle,Other,0.3,NA
+24039,Laurier--Sainte-Marie,Liberal,38,5.1
+24039,Laurier--Sainte-Marie,NDP-New Democratic Party,32.9,NA
+24039,Laurier--Sainte-Marie,Bloc Québécois/Bloc Québécois,20.4,NA
+24039,Laurier--Sainte-Marie,Conservative,3.4,NA
+24039,Laurier--Sainte-Marie,Green Party,2.2,NA
+24039,Laurier--Sainte-Marie,Other,1.7,NA
+24039,Laurier--Sainte-Marie,Other,0.5,NA
+24039,Laurier--Sainte-Marie,Other,0.4,NA
+24039,Laurier--Sainte-Marie,Other,0.2,NA
+24039,Laurier--Sainte-Marie,Other,0.2,NA
+24039,Laurier--Sainte-Marie,Other,0.2,NA
+24040,Laval--Les Îles,Liberal,48.9,29.8
+24040,Laval--Les Îles,Bloc Québécois/Bloc Québécois,19.1,NA
+24040,Laval--Les Îles,Conservative,17.7,NA
+24040,Laval--Les Îles,NDP-New Democratic Party,7.7,NA
+24040,Laval--Les Îles,Other,5.1,NA
+24040,Laval--Les Îles,Green Party,1.5,NA
+24042,Lévis--Lotbinière,Conservative,51.6,30
+24042,Lévis--Lotbinière,Bloc Québécois/Bloc Québécois,21.7,NA
+24042,Lévis--Lotbinière,Liberal,14.6,NA
+24042,Lévis--Lotbinière,NDP-New Democratic Party,7.1,NA
+24042,Lévis--Lotbinière,Other,2.6,NA
+24042,Lévis--Lotbinière,Green Party,1.4,NA
+24042,Lévis--Lotbinière,Other,0.9,NA
+24042,Lévis--Lotbinière,Other,0.1,NA
+24041,Longueuil--Charles-LeMoyne,Liberal,40.4,5.2
+24041,Longueuil--Charles-LeMoyne,Bloc Québécois/Bloc Québécois,35.3,NA
+24041,Longueuil--Charles-LeMoyne,NDP-New Democratic Party,10.3,NA
+24041,Longueuil--Charles-LeMoyne,Conservative,8.3,NA
+24041,Longueuil--Charles-LeMoyne,Other,2.9,NA
+24041,Longueuil--Charles-LeMoyne,Green Party,2.4,NA
+24041,Longueuil--Charles-LeMoyne,Other,0.3,NA
+24043,Longueuil--Saint-Hubert,Bloc Québécois/Bloc Québécois,41.2,2.9
+24043,Longueuil--Saint-Hubert,Liberal,38.3,NA
+24043,Longueuil--Saint-Hubert,NDP-New Democratic Party,8,NA
+24043,Longueuil--Saint-Hubert,Conservative,6.9,NA
+24043,Longueuil--Saint-Hubert,Green Party,2.8,NA
+24043,Longueuil--Saint-Hubert,Other,2.4,NA
+24043,Longueuil--Saint-Hubert,Other,0.4,NA
+24044,Louis-Hébert,Liberal,38.3,11.2
+24044,Louis-Hébert,Bloc Québécois/Bloc Québécois,27.2,NA
+24044,Louis-Hébert,Conservative,24,NA
+24044,Louis-Hébert,NDP-New Democratic Party,7.3,NA
+24044,Louis-Hébert,Green Party,2.6,NA
+24044,Louis-Hébert,Other,0.6,NA
+24045,Louis-Saint-Laurent,Conservative,51.6,31.2
+24045,Louis-Saint-Laurent,Bloc Québécois/Bloc Québécois,20.4,NA
+24045,Louis-Saint-Laurent,Liberal,17.5,NA
+24045,Louis-Saint-Laurent,NDP-New Democratic Party,5.3,NA
+24045,Louis-Saint-Laurent,Other,2.1,NA
+24045,Louis-Saint-Laurent,Other,1.7,NA
+24045,Louis-Saint-Laurent,Green Party,1.4,NA
+24046,Manicouagan,Bloc Québécois/Bloc Québécois,52.6,30.8
+24046,Manicouagan,Conservative,21.8,NA
+24046,Manicouagan,Liberal,18.7,NA
+24046,Manicouagan,NDP-New Democratic Party,4.3,NA
+24046,Manicouagan,Other,2.5,NA
+24065,Marc-Aurèle-Fortin,Liberal,44.1,13.3
+24065,Marc-Aurèle-Fortin,Bloc Québécois/Bloc Québécois,30.8,NA
+24065,Marc-Aurèle-Fortin,Conservative,11.7,NA
+24065,Marc-Aurèle-Fortin,NDP-New Democratic Party,8.6,NA
+24065,Marc-Aurèle-Fortin,Other,2.9,NA
+24065,Marc-Aurèle-Fortin,Other,1.9,NA
+24047,Mégantic--L'Érable,Conservative,56.3,36.2
+24047,Mégantic--L'Érable,Bloc Québécois/Bloc Québécois,20.1,NA
+24047,Mégantic--L'Érable,Liberal,13.6,NA
+24047,Mégantic--L'Érable,Other,3.6,NA
+24047,Mégantic--L'Érable,NDP-New Democratic Party,2.8,NA
+24047,Mégantic--L'Érable,Other,1.5,NA
+24047,Mégantic--L'Érable,Green Party,1.3,NA
+24047,Mégantic--L'Érable,Other,0.9,NA
+24048,Mirabel,Bloc Québécois/Bloc Québécois,46.5,23
+24048,Mirabel,Liberal,23.5,NA
+24048,Mirabel,Conservative,13.5,NA
+24048,Mirabel,NDP-New Democratic Party,8.3,NA
+24048,Mirabel,Other,4.1,NA
+24048,Mirabel,Green Party,2.2,NA
+24048,Mirabel,Other,1.9,NA
+24049,Montarville,Bloc Québécois/Bloc Québécois,45.3,10.5
+24049,Montarville,Liberal,34.8,NA
+24049,Montarville,Conservative,9.5,NA
+24049,Montarville,NDP-New Democratic Party,8.4,NA
+24049,Montarville,Other,2.1,NA
+24050,Montcalm,Bloc Québécois/Bloc Québécois,53.2,33.4
+24050,Montcalm,Liberal,19.8,NA
+24050,Montcalm,Conservative,11.7,NA
+24050,Montcalm,NDP-New Democratic Party,6.3,NA
+24050,Montcalm,Other,4.4,NA
+24050,Montcalm,Green Party,2.6,NA
+24050,Montcalm,Other,2.1,NA
+24051,Montmagny--L'Islet--Kamouraska--Rivière-du-Loup,Conservative,50.4,24.2
+24051,Montmagny--L'Islet--Kamouraska--Rivière-du-Loup,Bloc Québécois/Bloc Québécois,26.2,NA
+24051,Montmagny--L'Islet--Kamouraska--Rivière-du-Loup,Liberal,17.5,NA
+24051,Montmagny--L'Islet--Kamouraska--Rivière-du-Loup,NDP-New Democratic Party,3.3,NA
+24051,Montmagny--L'Islet--Kamouraska--Rivière-du-Loup,Other,1.9,NA
+24051,Montmagny--L'Islet--Kamouraska--Rivière-du-Loup,Other,0.6,NA
+24052,Mount Royal/Mont-Royal,Liberal,57.7,33.2
+24052,Mount Royal/Mont-Royal,Conservative,24.5,NA
+24052,Mount Royal/Mont-Royal,NDP-New Democratic Party,8.4,NA
+24052,Mount Royal/Mont-Royal,Bloc Québécois/Bloc Québécois,3.9,NA
+24052,Mount Royal/Mont-Royal,Green Party,2.7,NA
+24052,Mount Royal/Mont-Royal,Other,2.6,NA
+24052,Mount Royal/Mont-Royal,Other,0.2,NA
+24053,Notre-Dame-de-Grâce--Westmount,Liberal,53.8,34.6
+24053,Notre-Dame-de-Grâce--Westmount,NDP-New Democratic Party,19.2,NA
+24053,Notre-Dame-de-Grâce--Westmount,Conservative,14.1,NA
+24053,Notre-Dame-de-Grâce--Westmount,Bloc Québécois/Bloc Québécois,5.3,NA
+24053,Notre-Dame-de-Grâce--Westmount,Green Party,4,NA
+24053,Notre-Dame-de-Grâce--Westmount,Other,3.3,NA
+24053,Notre-Dame-de-Grâce--Westmount,Other,0.3,NA
+24053,Notre-Dame-de-Grâce--Westmount,Other,0.1,NA
+24054,Outremont,Liberal,45.4,19.4
+24054,Outremont,NDP-New Democratic Party,26,NA
+24054,Outremont,Bloc Québécois/Bloc Québécois,15,NA
+24054,Outremont,Conservative,7.8,NA
+24054,Outremont,Green Party,3.3,NA
+24054,Outremont,Other,2.2,NA
+24054,Outremont,Other,0.3,NA
+24055,Papineau,Liberal,50.3,27.6
+24055,Papineau,NDP-New Democratic Party,22.7,NA
+24055,Papineau,Bloc Québécois/Bloc Québécois,15,NA
+24055,Papineau,Conservative,4.8,NA
+24055,Papineau,Green Party,3.2,NA
+24055,Papineau,Other,2.3,NA
+24055,Papineau,Other,0.9,NA
+24055,Papineau,Other,0.3,NA
+24055,Papineau,Other,0.2,NA
+24055,Papineau,Other,0.2,NA
+24014,Pierre-Boucher--Les Patriotes--Verchères,Bloc Québécois/Bloc Québécois,54.3,28.4
+24014,Pierre-Boucher--Les Patriotes--Verchères,Liberal,25.9,NA
+24014,Pierre-Boucher--Les Patriotes--Verchères,Conservative,8.8,NA
+24014,Pierre-Boucher--Les Patriotes--Verchères,NDP-New Democratic Party,7.7,NA
+24014,Pierre-Boucher--Les Patriotes--Verchères,Other,2,NA
+24014,Pierre-Boucher--Les Patriotes--Verchères,Other,1.4,NA
+24056,Pierrefonds--Dollard,Liberal,56,35.2
+24056,Pierrefonds--Dollard,Conservative,20.8,NA
+24056,Pierrefonds--Dollard,NDP-New Democratic Party,11.5,NA
+24056,Pierrefonds--Dollard,Bloc Québécois/Bloc Québécois,7.9,NA
+24056,Pierrefonds--Dollard,Other,3.7,NA
+24057,Pontiac,Liberal,43.4,22.7
+24057,Pontiac,Conservative,20.6,NA
+24057,Pontiac,Bloc Québécois/Bloc Québécois,16.8,NA
+24057,Pontiac,NDP-New Democratic Party,11,NA
+24057,Pontiac,Other,4.5,NA
+24057,Pontiac,Green Party,2.8,NA
+24057,Pontiac,Other,0.8,NA
+24057,Pontiac,Other,0.1,NA
+24058,Portneuf--Jacques-Cartier,Conservative,51.6,27.8
+24058,Portneuf--Jacques-Cartier,Bloc Québécois/Bloc Québécois,23.8,NA
+24058,Portneuf--Jacques-Cartier,Liberal,15.4,NA
+24058,Portneuf--Jacques-Cartier,NDP-New Democratic Party,4.9,NA
+24058,Portneuf--Jacques-Cartier,Other,2.5,NA
+24058,Portneuf--Jacques-Cartier,Other,1,NA
+24058,Portneuf--Jacques-Cartier,Other,0.8,NA
+24059,Québec,Liberal,35.4,6.5
+24059,Québec,Bloc Québécois/Bloc Québécois,29,NA
+24059,Québec,Conservative,18,NA
+24059,Québec,NDP-New Democratic Party,13,NA
+24059,Québec,Green Party,2.3,NA
+24059,Québec,Other,1.7,NA
+24059,Québec,Other,0.6,NA
+24060,Repentigny,Bloc Québécois/Bloc Québécois,51.7,24
+24060,Repentigny,Liberal,27.6,NA
+24060,Repentigny,Conservative,8.9,NA
+24060,Repentigny,NDP-New Democratic Party,7.5,NA
+24060,Repentigny,Other,3.4,NA
+24060,Repentigny,Other,0.9,NA
+24061,Richmond--Arthabaska,Conservative,49.9,25.1
+24061,Richmond--Arthabaska,Bloc Québécois/Bloc Québécois,24.8,NA
+24061,Richmond--Arthabaska,Liberal,14.9,NA
+24061,Richmond--Arthabaska,NDP-New Democratic Party,4.5,NA
+24061,Richmond--Arthabaska,Other,3.6,NA
+24061,Richmond--Arthabaska,Other,1.6,NA
+24061,Richmond--Arthabaska,Other,0.8,NA
+24018,Rimouski-Neigette--Témiscouata--Les Basques,Bloc Québécois/Bloc Québécois,49,24.1
+24018,Rimouski-Neigette--Témiscouata--Les Basques,Liberal,24.9,NA
+24018,Rimouski-Neigette--Témiscouata--Les Basques,Conservative,13.2,NA
+24018,Rimouski-Neigette--Témiscouata--Les Basques,NDP-New Democratic Party,6.3,NA
+24018,Rimouski-Neigette--Témiscouata--Les Basques,Other,3.5,NA
+24018,Rimouski-Neigette--Témiscouata--Les Basques,Other,1.7,NA
+24018,Rimouski-Neigette--Témiscouata--Les Basques,Other,1,NA
+24018,Rimouski-Neigette--Témiscouata--Les Basques,Other,0.5,NA
+24062,Rivière-des-Mille-Îles,Bloc Québécois/Bloc Québécois,40.6,5.3
+24062,Rivière-des-Mille-Îles,Liberal,35.3,NA
+24062,Rivière-des-Mille-Îles,Conservative,10.3,NA
+24062,Rivière-des-Mille-Îles,NDP-New Democratic Party,7.2,NA
+24062,Rivière-des-Mille-Îles,Other,2.8,NA
+24062,Rivière-des-Mille-Îles,Green Party,1.8,NA
+24062,Rivière-des-Mille-Îles,Other,1.6,NA
+24062,Rivière-des-Mille-Îles,Other,0.3,NA
+24062,Rivière-des-Mille-Îles,Other,0.2,NA
+24063,Rivière-du-Nord,Bloc Québécois/Bloc Québécois,52.2,30
+24063,Rivière-du-Nord,Liberal,22.3,NA
+24063,Rivière-du-Nord,Conservative,11.9,NA
+24063,Rivière-du-Nord,NDP-New Democratic Party,6.9,NA
+24063,Rivière-du-Nord,Other,3.8,NA
+24063,Rivière-du-Nord,Other,1.8,NA
+24063,Rivière-du-Nord,Other,0.7,NA
+24063,Rivière-du-Nord,Other,0.5,NA
+24064,Rosemont--La Petite-Patrie,NDP-New Democratic Party,48.6,25.4
+24064,Rosemont--La Petite-Patrie,Liberal,23.2,NA
+24064,Rosemont--La Petite-Patrie,Bloc Québécois/Bloc Québécois,21.4,NA
+24064,Rosemont--La Petite-Patrie,Conservative,4,NA
+24064,Rosemont--La Petite-Patrie,Green Party,2.4,NA
+24064,Rosemont--La Petite-Patrie,Other,0.5,NA
+24066,Saint-Hyacinthe--Bagot,Bloc Québécois/Bloc Québécois,47.5,24.8
+24066,Saint-Hyacinthe--Bagot,Liberal,22.7,NA
+24066,Saint-Hyacinthe--Bagot,Conservative,13.5,NA
+24066,Saint-Hyacinthe--Bagot,NDP-New Democratic Party,11.6,NA
+24066,Saint-Hyacinthe--Bagot,Other,2.7,NA
+24066,Saint-Hyacinthe--Bagot,Other,2,NA
+24067,Saint-Jean,Bloc Québécois/Bloc Québécois,46,17.9
+24067,Saint-Jean,Liberal,28.1,NA
+24067,Saint-Jean,Conservative,12.7,NA
+24067,Saint-Jean,NDP-New Democratic Party,7.3,NA
+24067,Saint-Jean,Other,3,NA
+24067,Saint-Jean,Green Party,2.1,NA
+24067,Saint-Jean,Other,0.7,NA
+24068,Saint-Laurent,Liberal,59.1,40.6
+24068,Saint-Laurent,Conservative,18.5,NA
+24068,Saint-Laurent,NDP-New Democratic Party,10.9,NA
+24068,Saint-Laurent,Bloc Québécois/Bloc Québécois,8,NA
+24068,Saint-Laurent,Other,3.2,NA
+24068,Saint-Laurent,Other,0.4,NA
+24069,Saint-Léonard--Saint-Michel,Liberal,69.4,58.9
+24069,Saint-Léonard--Saint-Michel,Conservative,10.5,NA
+24069,Saint-Léonard--Saint-Michel,NDP-New Democratic Party,8.3,NA
+24069,Saint-Léonard--Saint-Michel,Bloc Québécois/Bloc Québécois,8.1,NA
+24069,Saint-Léonard--Saint-Michel,Other,3.7,NA
+24070,Saint-Maurice--Champlain,Liberal,42.4,12.4
+24070,Saint-Maurice--Champlain,Bloc Québécois/Bloc Québécois,30.1,NA
+24070,Saint-Maurice--Champlain,Conservative,18,NA
+24070,Saint-Maurice--Champlain,NDP-New Democratic Party,5.1,NA
+24070,Saint-Maurice--Champlain,Other,1.7,NA
+24070,Saint-Maurice--Champlain,Green Party,1.3,NA
+24070,Saint-Maurice--Champlain,Other,0.5,NA
+24070,Saint-Maurice--Champlain,Other,0.5,NA
+24070,Saint-Maurice--Champlain,Other,0.4,NA
+24071,Salaberry--Suroît,Bloc Québécois/Bloc Québécois,47.8,20.6
+24071,Salaberry--Suroît,Liberal,27.2,NA
+24071,Salaberry--Suroît,Conservative,12.3,NA
+24071,Salaberry--Suroît,NDP-New Democratic Party,7.4,NA
+24071,Salaberry--Suroît,Other,3.6,NA
+24071,Salaberry--Suroît,Other,0.9,NA
+24071,Salaberry--Suroît,Other,0.7,NA
+24072,Shefford,Bloc Québécois/Bloc Québécois,41.9,8.4
+24072,Shefford,Liberal,33.5,NA
+24072,Shefford,Conservative,12.1,NA
+24072,Shefford,NDP-New Democratic Party,5.3,NA
+24072,Shefford,Other,3.5,NA
+24072,Shefford,Green Party,1.8,NA
+24072,Shefford,Other,1,NA
+24072,Shefford,Other,0.5,NA
+24072,Shefford,Other,0.4,NA
+24073,Sherbrooke,Liberal,37.5,8.6
+24073,Sherbrooke,Bloc Québécois/Bloc Québécois,29,NA
+24073,Sherbrooke,NDP-New Democratic Party,13.9,NA
+24073,Sherbrooke,Conservative,12.9,NA
+24073,Sherbrooke,Green Party,2.9,NA
+24073,Sherbrooke,Other,2.5,NA
+24073,Sherbrooke,Other,1.4,NA
+24075,Terrebonne,Bloc Québécois/Bloc Québécois,41.2,11.5
+24075,Terrebonne,Liberal,29.6,NA
+24075,Terrebonne,Conservative,10.5,NA
+24075,Terrebonne,NDP-New Democratic Party,6.6,NA
+24075,Terrebonne,Other,6.6,NA
+24075,Terrebonne,Other,2.7,NA
+24075,Terrebonne,Green Party,1.4,NA
+24075,Terrebonne,Other,1.4,NA
+24013,Thérèse-De Blainville,Bloc Québécois/Bloc Québécois,41.2,6
+24013,Thérèse-De Blainville,Liberal,35.2,NA
+24013,Thérèse-De Blainville,Conservative,11,NA
+24013,Thérèse-De Blainville,NDP-New Democratic Party,7.3,NA
+24013,Thérèse-De Blainville,Other,2.7,NA
+24013,Thérèse-De Blainville,Green Party,1.9,NA
+24013,Thérèse-De Blainville,Other,0.7,NA
+24076,Trois-Rivières,Bloc Québécois/Bloc Québécois,29.5,0.1
+24076,Trois-Rivières,Conservative,29.3,NA
+24076,Trois-Rivières,Liberal,28.6,NA
+24076,Trois-Rivières,NDP-New Democratic Party,8.1,NA
+24076,Trois-Rivières,Other,1.9,NA
+24076,Trois-Rivières,Green Party,1.3,NA
+24076,Trois-Rivières,Other,1.3,NA
+24074,Vaudreuil--Soulanges,Liberal,46.5,24.3
+24074,Vaudreuil--Soulanges,Bloc Québécois/Bloc Québécois,22.2,NA
+24074,Vaudreuil--Soulanges,Conservative,16.3,NA
+24074,Vaudreuil--Soulanges,NDP-New Democratic Party,10.5,NA
+24074,Vaudreuil--Soulanges,Green Party,2.5,NA
+24074,Vaudreuil--Soulanges,Other,2,NA
+24077,Ville-Marie--Le Sud-Ouest--Île-des-Soeurs,Liberal,50.5,31.8
+24077,Ville-Marie--Le Sud-Ouest--Île-des-Soeurs,NDP-New Democratic Party,18.7,NA
+24077,Ville-Marie--Le Sud-Ouest--Île-des-Soeurs,Bloc Québécois/Bloc Québécois,12.5,NA
+24077,Ville-Marie--Le Sud-Ouest--Île-des-Soeurs,Conservative,12.4,NA
+24077,Ville-Marie--Le Sud-Ouest--Île-des-Soeurs,Green Party,2.7,NA
+24077,Ville-Marie--Le Sud-Ouest--Île-des-Soeurs,Other,2.6,NA
+24077,Ville-Marie--Le Sud-Ouest--Île-des-Soeurs,Other,0.3,NA
+24077,Ville-Marie--Le Sud-Ouest--Île-des-Soeurs,Other,0.2,NA
+24078,Vimy,Liberal,49.8,26.6
+24078,Vimy,Bloc Québécois/Bloc Québécois,23.2,NA
+24078,Vimy,Conservative,13.4,NA
+24078,Vimy,NDP-New Democratic Party,9.3,NA
+24078,Vimy,Other,4.3,NA
+35001,Ajax,Liberal,56.8,30.2
+35001,Ajax,Conservative,26.6,NA
+35001,Ajax,NDP-New Democratic Party,14,NA
+35001,Ajax,Green Party,2.5,NA
+35002,Algoma--Manitoulin--Kapuskasing,NDP-New Democratic Party,40.2,12.7
+35002,Algoma--Manitoulin--Kapuskasing,Conservative,27.5,NA
+35002,Algoma--Manitoulin--Kapuskasing,Liberal,22.5,NA
+35002,Algoma--Manitoulin--Kapuskasing,Other,7.2,NA
+35002,Algoma--Manitoulin--Kapuskasing,Green Party,1.8,NA
+35002,Algoma--Manitoulin--Kapuskasing,Other,0.7,NA
+35003,Aurora--Oak Ridges--Richmond Hill,Liberal,45.2,3.2
+35003,Aurora--Oak Ridges--Richmond Hill,Conservative,42.1,NA
+35003,Aurora--Oak Ridges--Richmond Hill,NDP-New Democratic Party,7.8,NA
+35003,Aurora--Oak Ridges--Richmond Hill,Other,3.8,NA
+35003,Aurora--Oak Ridges--Richmond Hill,Other,1.1,NA
+35004,Barrie--Innisfil,Conservative,47.7,18.8
+35004,Barrie--Innisfil,Liberal,28.9,NA
+35004,Barrie--Innisfil,NDP-New Democratic Party,15.8,NA
+35004,Barrie--Innisfil,Other,7.7,NA
+35005,Barrie--Springwater--Oro-Medonte,Conservative,45.1,14.2
+35005,Barrie--Springwater--Oro-Medonte,Liberal,30.9,NA
+35005,Barrie--Springwater--Oro-Medonte,NDP-New Democratic Party,17.1,NA
+35005,Barrie--Springwater--Oro-Medonte,Other,6.9,NA
+35006,Bay of Quinte/Baie de Quinte,Conservative,41.3,4.8
+35006,Bay of Quinte/Baie de Quinte,Liberal,36.5,NA
+35006,Bay of Quinte/Baie de Quinte,NDP-New Democratic Party,15,NA
+35006,Bay of Quinte/Baie de Quinte,Other,4.9,NA
+35006,Bay of Quinte/Baie de Quinte,Green Party,2.2,NA
+35007,Beaches--East York,Liberal,56.6,34.1
+35007,Beaches--East York,NDP-New Democratic Party,22.5,NA
+35007,Beaches--East York,Conservative,14.4,NA
+35007,Beaches--East York,Other,3.2,NA
+35007,Beaches--East York,Green Party,2.7,NA
+35007,Beaches--East York,Other,0.3,NA
+35007,Beaches--East York,Other,0.3,NA
+35007,Beaches--East York,Other,0.1,NA
+35008,Brampton Centre/Brampton-Centre,Liberal,47.7,15.2
+35008,Brampton Centre/Brampton-Centre,Conservative,32.5,NA
+35008,Brampton Centre/Brampton-Centre,NDP-New Democratic Party,17.5,NA
+35008,Brampton Centre/Brampton-Centre,Other,2.4,NA
+35009,Brampton East/Brampton-Est,Liberal,53.5,25.3
+35009,Brampton East/Brampton-Est,Conservative,28.2,NA
+35009,Brampton East/Brampton-Est,NDP-New Democratic Party,15.7,NA
+35009,Brampton East/Brampton-Est,Other,2.6,NA
+35010,Brampton North/Brampton-Nord,Liberal,54.3,23.5
+35010,Brampton North/Brampton-Nord,Conservative,30.8,NA
+35010,Brampton North/Brampton-Nord,NDP-New Democratic Party,14.9,NA
+35011,Brampton South/Brampton-Sud,Liberal,51,20.6
+35011,Brampton South/Brampton-Sud,Conservative,30.4,NA
+35011,Brampton South/Brampton-Sud,NDP-New Democratic Party,14.2,NA
+35011,Brampton South/Brampton-Sud,Other,4.4,NA
+35012,Brampton West/Brampton-Ouest,Liberal,55.3,27
+35012,Brampton West/Brampton-Ouest,Conservative,28.3,NA
+35012,Brampton West/Brampton-Ouest,NDP-New Democratic Party,13.1,NA
+35012,Brampton West/Brampton-Ouest,Other,2.6,NA
+35012,Brampton West/Brampton-Ouest,Other,0.7,NA
+35013,Brantford--Brant,Conservative,40.3,11.9
+35013,Brantford--Brant,Liberal,28.4,NA
+35013,Brantford--Brant,NDP-New Democratic Party,19.6,NA
+35013,Brantford--Brant,Other,8.5,NA
+35013,Brantford--Brant,Green Party,2.7,NA
+35013,Brantford--Brant,Other,0.2,NA
+35013,Brantford--Brant,Other,0.2,NA
+35014,Bruce--Grey--Owen Sound,Conservative,49.2,23.9
+35014,Bruce--Grey--Owen Sound,Liberal,25.2,NA
+35014,Bruce--Grey--Owen Sound,NDP-New Democratic Party,13.6,NA
+35014,Bruce--Grey--Owen Sound,Other,8,NA
+35014,Bruce--Grey--Owen Sound,Green Party,3.1,NA
+35014,Bruce--Grey--Owen Sound,Other,0.9,NA
+35015,Burlington,Liberal,45.7,8.5
+35015,Burlington,Conservative,37.3,NA
+35015,Burlington,NDP-New Democratic Party,10.9,NA
+35015,Burlington,Other,4,NA
+35015,Burlington,Green Party,2,NA
+35015,Burlington,Other,0.2,NA
+35016,Cambridge,Liberal,38,3.6
+35016,Cambridge,Conservative,34.4,NA
+35016,Cambridge,NDP-New Democratic Party,17,NA
+35016,Cambridge,Other,7.2,NA
+35016,Cambridge,Green Party,3.4,NA
+35088,Carleton,Conservative,49.9,15.6
+35088,Carleton,Liberal,34.3,NA
+35088,Carleton,NDP-New Democratic Party,11.5,NA
+35088,Carleton,Other,2.4,NA
+35088,Carleton,Green Party,1.9,NA
+35017,Chatham-Kent--Leamington,Conservative,40.9,12.3
+35017,Chatham-Kent--Leamington,Liberal,28.6,NA
+35017,Chatham-Kent--Leamington,NDP-New Democratic Party,14.6,NA
+35017,Chatham-Kent--Leamington,Other,14.4,NA
+35017,Chatham-Kent--Leamington,Green Party,1.5,NA
+35018,Davenport,Liberal,42.1,0.2
+35018,Davenport,NDP-New Democratic Party,42,NA
+35018,Davenport,Conservative,10.1,NA
+35018,Davenport,Other,3.2,NA
+35018,Davenport,Green Party,2.3,NA
+35018,Davenport,Other,0.2,NA
+35018,Davenport,Other,0.2,NA
+35019,Don Valley East/Don Valley-Est,Liberal,59.9,36.4
+35019,Don Valley East/Don Valley-Est,Conservative,23.5,NA
+35019,Don Valley East/Don Valley-Est,NDP-New Democratic Party,12.4,NA
+35019,Don Valley East/Don Valley-Est,Other,4.2,NA
+35020,Don Valley North/Don Valley-Nord,Liberal,54.4,24.6
+35020,Don Valley North/Don Valley-Nord,Conservative,29.8,NA
+35020,Don Valley North/Don Valley-Nord,NDP-New Democratic Party,10.6,NA
+35020,Don Valley North/Don Valley-Nord,Other,3.2,NA
+35020,Don Valley North/Don Valley-Nord,Green Party,1.9,NA
+35021,Don Valley West/Don Valley-Ouest,Liberal,52.7,17.2
+35021,Don Valley West/Don Valley-Ouest,Conservative,35.5,NA
+35021,Don Valley West/Don Valley-Ouest,NDP-New Democratic Party,8.1,NA
+35021,Don Valley West/Don Valley-Ouest,Other,1.9,NA
+35021,Don Valley West/Don Valley-Ouest,Green Party,1.6,NA
+35021,Don Valley West/Don Valley-Ouest,Other,0.1,NA
+35022,Dufferin--Caledon,Conservative,48,17.7
+35022,Dufferin--Caledon,Liberal,30.3,NA
+35022,Dufferin--Caledon,NDP-New Democratic Party,10.5,NA
+35022,Dufferin--Caledon,Other,6.7,NA
+35022,Dufferin--Caledon,Green Party,4.2,NA
+35022,Dufferin--Caledon,Other,0.3,NA
+35023,Durham,Conservative,46.4,16.5
+35023,Durham,Liberal,29.9,NA
+35023,Durham,NDP-New Democratic Party,17.5,NA
+35023,Durham,Other,5.5,NA
+35023,Durham,Other,0.4,NA
+35023,Durham,Other,0.2,NA
+35023,Durham,Other,0.1,NA
+35024,Eglinton--Lawrence,Liberal,48.5,12
+35024,Eglinton--Lawrence,Conservative,36.4,NA
+35024,Eglinton--Lawrence,NDP-New Democratic Party,9.2,NA
+35024,Eglinton--Lawrence,Green Party,3,NA
+35024,Eglinton--Lawrence,Other,2.9,NA
+35025,Elgin--Middlesex--London,Conservative,49.9,30.4
+35025,Elgin--Middlesex--London,Liberal,19.5,NA
+35025,Elgin--Middlesex--London,NDP-New Democratic Party,16,NA
+35025,Elgin--Middlesex--London,Other,11.8,NA
+35025,Elgin--Middlesex--London,Green Party,2.2,NA
+35025,Elgin--Middlesex--London,Other,0.5,NA
+35026,Essex,Conservative,41.1,9.2
+35026,Essex,NDP-New Democratic Party,31.8,NA
+35026,Essex,Liberal,15.5,NA
+35026,Essex,Other,9.9,NA
+35026,Essex,Green Party,1.2,NA
+35026,Essex,Other,0.3,NA
+35026,Essex,Other,0.2,NA
+35027,Etobicoke Centre/Etobicoke-Centre,Liberal,48,13.1
+35027,Etobicoke Centre/Etobicoke-Centre,Conservative,34.9,NA
+35027,Etobicoke Centre/Etobicoke-Centre,NDP-New Democratic Party,10.1,NA
+35027,Etobicoke Centre/Etobicoke-Centre,Other,7,NA
+35029,Etobicoke North/Etobicoke-Nord,Liberal,59.6,34.7
+35029,Etobicoke North/Etobicoke-Nord,Conservative,24.9,NA
+35029,Etobicoke North/Etobicoke-Nord,NDP-New Democratic Party,10.4,NA
+35029,Etobicoke North/Etobicoke-Nord,Other,4.1,NA
+35029,Etobicoke North/Etobicoke-Nord,Other,0.9,NA
+35028,Etobicoke--Lakeshore,Liberal,47.4,15.4
+35028,Etobicoke--Lakeshore,Conservative,31.9,NA
+35028,Etobicoke--Lakeshore,NDP-New Democratic Party,13.7,NA
+35028,Etobicoke--Lakeshore,Other,4.5,NA
+35028,Etobicoke--Lakeshore,Green Party,2.1,NA
+35028,Etobicoke--Lakeshore,Other,0.2,NA
+35028,Etobicoke--Lakeshore,Other,0.2,NA
+35030,Flamborough--Glanbrook,Conservative,40.6,5
+35030,Flamborough--Glanbrook,Liberal,35.5,NA
+35030,Flamborough--Glanbrook,NDP-New Democratic Party,15.7,NA
+35030,Flamborough--Glanbrook,Other,6.1,NA
+35030,Flamborough--Glanbrook,Green Party,2.1,NA
+35031,Glengarry--Prescott--Russell,Liberal,46.1,12.7
+35031,Glengarry--Prescott--Russell,Conservative,33.3,NA
+35031,Glengarry--Prescott--Russell,NDP-New Democratic Party,10.7,NA
+35031,Glengarry--Prescott--Russell,Other,6.8,NA
+35031,Glengarry--Prescott--Russell,Green Party,2,NA
+35031,Glengarry--Prescott--Russell,Other,0.6,NA
+35031,Glengarry--Prescott--Russell,Other,0.5,NA
+35032,Guelph,Liberal,42.1,18
+35032,Guelph,Conservative,24.1,NA
+35032,Guelph,NDP-New Democratic Party,21.1,NA
+35032,Guelph,Green Party,7.5,NA
+35032,Guelph,Other,4.6,NA
+35032,Guelph,Other,0.4,NA
+35032,Guelph,Other,0.3,NA
+35033,Haldimand--Norfolk,Conservative,47.4,19.9
+35033,Haldimand--Norfolk,Liberal,27.5,NA
+35033,Haldimand--Norfolk,NDP-New Democratic Party,13.3,NA
+35033,Haldimand--Norfolk,Other,10.5,NA
+35033,Haldimand--Norfolk,Other,0.9,NA
+35033,Haldimand--Norfolk,Other,0.4,NA
+35034,Haliburton--Kawartha Lakes--Brock,Conservative,52.3,29.2
+35034,Haliburton--Kawartha Lakes--Brock,Liberal,23.1,NA
+35034,Haliburton--Kawartha Lakes--Brock,NDP-New Democratic Party,14.4,NA
+35034,Haliburton--Kawartha Lakes--Brock,Other,7,NA
+35034,Haliburton--Kawartha Lakes--Brock,Green Party,2.5,NA
+35034,Haliburton--Kawartha Lakes--Brock,Other,0.7,NA
+35035,Hamilton Centre/Hamilton-Centre,NDP-New Democratic Party,48.7,22.2
+35035,Hamilton Centre/Hamilton-Centre,Liberal,26.5,NA
+35035,Hamilton Centre/Hamilton-Centre,Conservative,15,NA
+35035,Hamilton Centre/Hamilton-Centre,Other,6.4,NA
+35035,Hamilton Centre/Hamilton-Centre,Green Party,2.7,NA
+35035,Hamilton Centre/Hamilton-Centre,Other,0.4,NA
+35035,Hamilton Centre/Hamilton-Centre,Other,0.2,NA
+35036,Hamilton East--Stoney Creek/Hamilton-Est--Stoney Creek,Liberal,36.9,8.9
+35036,Hamilton East--Stoney Creek/Hamilton-Est--Stoney Creek,Conservative,28,NA
+35036,Hamilton East--Stoney Creek/Hamilton-Est--Stoney Creek,NDP-New Democratic Party,25.6,NA
+35036,Hamilton East--Stoney Creek/Hamilton-Est--Stoney Creek,Other,7.5,NA
+35036,Hamilton East--Stoney Creek/Hamilton-Est--Stoney Creek,Green Party,2,NA
+35037,Hamilton Mountain,Liberal,34.1,1.7
+35037,Hamilton Mountain,NDP-New Democratic Party,32.4,NA
+35037,Hamilton Mountain,Conservative,24.4,NA
+35037,Hamilton Mountain,Other,6.4,NA
+35037,Hamilton Mountain,Green Party,2,NA
+35037,Hamilton Mountain,Other,0.6,NA
+35038,Hamilton West--Ancaster--Dundas/Hamilton-Ouest--Ancaster--Dundas,Liberal,44.3,15.4
+35038,Hamilton West--Ancaster--Dundas/Hamilton-Ouest--Ancaster--Dundas,Conservative,28.9,NA
+35038,Hamilton West--Ancaster--Dundas/Hamilton-Ouest--Ancaster--Dundas,NDP-New Democratic Party,19.8,NA
+35038,Hamilton West--Ancaster--Dundas/Hamilton-Ouest--Ancaster--Dundas,Other,4.1,NA
+35038,Hamilton West--Ancaster--Dundas/Hamilton-Ouest--Ancaster--Dundas,Green Party,2.6,NA
+35038,Hamilton West--Ancaster--Dundas/Hamilton-Ouest--Ancaster--Dundas,Other,0.2,NA
+35039,Hastings--Lennox and Addington,Conservative,45.1,10.2
+35039,Hastings--Lennox and Addington,Liberal,34.9,NA
+35039,Hastings--Lennox and Addington,NDP-New Democratic Party,11,NA
+35039,Hastings--Lennox and Addington,Other,5.7,NA
+35039,Hastings--Lennox and Addington,Green Party,1.8,NA
+35039,Hastings--Lennox and Addington,Other,1.5,NA
+35121,Humber River--Black Creek,Liberal,60.7,43.3
+35121,Humber River--Black Creek,Conservative,17.4,NA
+35121,Humber River--Black Creek,NDP-New Democratic Party,16.4,NA
+35121,Humber River--Black Creek,Other,3.9,NA
+35121,Humber River--Black Creek,Green Party,1.2,NA
+35121,Humber River--Black Creek,Other,0.4,NA
+35040,Huron--Bruce,Conservative,50.9,24.8
+35040,Huron--Bruce,Liberal,26.2,NA
+35040,Huron--Bruce,NDP-New Democratic Party,14.8,NA
+35040,Huron--Bruce,Other,7.3,NA
+35040,Huron--Bruce,Other,0.8,NA
+35041,Kanata--Carleton,Liberal,41.8,3.2
+35041,Kanata--Carleton,Conservative,38.6,NA
+35041,Kanata--Carleton,NDP-New Democratic Party,14,NA
+35041,Kanata--Carleton,Other,2.9,NA
+35041,Kanata--Carleton,Green Party,2.7,NA
+35042,Kenora,Conservative,42.6,12.7
+35042,Kenora,NDP-New Democratic Party,29.9,NA
+35042,Kenora,Liberal,19.9,NA
+35042,Kenora,Other,6.2,NA
+35042,Kenora,Green Party,1.4,NA
+35043,King--Vaughan,Conservative,45.1,2.2
+35043,King--Vaughan,Liberal,42.9,NA
+35043,King--Vaughan,NDP-New Democratic Party,6.5,NA
+35043,King--Vaughan,Other,4.3,NA
+35043,King--Vaughan,Green Party,1.2,NA
+35044,Kingston and the Islands/Kingston et les Îles,Liberal,41.1,11.8
+35044,Kingston and the Islands/Kingston et les Îles,NDP-New Democratic Party,29.3,NA
+35044,Kingston and the Islands/Kingston et les Îles,Conservative,23.7,NA
+35044,Kingston and the Islands/Kingston et les Îles,Other,3.4,NA
+35044,Kingston and the Islands/Kingston et les Îles,Green Party,2.5,NA
+35045,Kitchener Centre/Kitchener-Centre,Green Party,34.9,10.4
+35045,Kitchener Centre/Kitchener-Centre,Conservative,24.5,NA
+35045,Kitchener Centre/Kitchener-Centre,NDP-New Democratic Party,17.5,NA
+35045,Kitchener Centre/Kitchener-Centre,Liberal,16.2,NA
+35045,Kitchener Centre/Kitchener-Centre,Other,6.6,NA
+35045,Kitchener Centre/Kitchener-Centre,Other,0.3,NA
+35047,Kitchener South--Hespeler/Kitchener-Sud--Hespeler,Liberal,37.5,1.9
+35047,Kitchener South--Hespeler/Kitchener-Sud--Hespeler,Conservative,35.5,NA
+35047,Kitchener South--Hespeler/Kitchener-Sud--Hespeler,NDP-New Democratic Party,16.3,NA
+35047,Kitchener South--Hespeler/Kitchener-Sud--Hespeler,Other,6.7,NA
+35047,Kitchener South--Hespeler/Kitchener-Sud--Hespeler,Green Party,3.4,NA
+35047,Kitchener South--Hespeler/Kitchener-Sud--Hespeler,Other,0.2,NA
+35047,Kitchener South--Hespeler/Kitchener-Sud--Hespeler,Other,0.2,NA
+35047,Kitchener South--Hespeler/Kitchener-Sud--Hespeler,Other,0.1,NA
+35046,Kitchener--Conestoga,Liberal,39.3,1.1
+35046,Kitchener--Conestoga,Conservative,38.2,NA
+35046,Kitchener--Conestoga,NDP-New Democratic Party,11.7,NA
+35046,Kitchener--Conestoga,Other,7.2,NA
+35046,Kitchener--Conestoga,Green Party,3.6,NA
+35048,Lambton--Kent--Middlesex,Conservative,48.5,27.8
+35048,Lambton--Kent--Middlesex,Liberal,20.7,NA
+35048,Lambton--Kent--Middlesex,NDP-New Democratic Party,18.3,NA
+35048,Lambton--Kent--Middlesex,Other,10.8,NA
+35048,Lambton--Kent--Middlesex,Green Party,1.7,NA
+35049,Lanark--Frontenac--Kingston,Conservative,48.9,22.5
+35049,Lanark--Frontenac--Kingston,Liberal,26.4,NA
+35049,Lanark--Frontenac--Kingston,NDP-New Democratic Party,15.6,NA
+35049,Lanark--Frontenac--Kingston,Other,6.1,NA
+35049,Lanark--Frontenac--Kingston,Green Party,2.6,NA
+35049,Lanark--Frontenac--Kingston,Other,0.3,NA
+35050,Leeds-Grenville-Thousand Islands and Rideau Lakes/Leeds-Grenville-Thousand Islands et Rideau Lakes,Conservative,50.5,25.3
+35050,Leeds-Grenville-Thousand Islands and Rideau Lakes/Leeds-Grenville-Thousand Islands et Rideau Lakes,Liberal,25.2,NA
+35050,Leeds-Grenville-Thousand Islands and Rideau Lakes/Leeds-Grenville-Thousand Islands et Rideau Lakes,NDP-New Democratic Party,15,NA
+35050,Leeds-Grenville-Thousand Islands and Rideau Lakes/Leeds-Grenville-Thousand Islands et Rideau Lakes,Other,5.7,NA
+35050,Leeds-Grenville-Thousand Islands and Rideau Lakes/Leeds-Grenville-Thousand Islands et Rideau Lakes,Green Party,3.6,NA
+35052,London North Centre/London-Centre-Nord,Liberal,39.1,12
+35052,London North Centre/London-Centre-Nord,Conservative,27.1,NA
+35052,London North Centre/London-Centre-Nord,NDP-New Democratic Party,26.6,NA
+35052,London North Centre/London-Centre-Nord,Other,5,NA
+35052,London North Centre/London-Centre-Nord,Green Party,2.2,NA
+35053,London West/London-Ouest,Liberal,36.9,4.4
+35053,London West/London-Ouest,Conservative,32.5,NA
+35053,London West/London-Ouest,NDP-New Democratic Party,24.6,NA
+35053,London West/London-Ouest,Other,5,NA
+35053,London West/London-Ouest,Other,1.1,NA
+35051,London--Fanshawe,NDP-New Democratic Party,43.4,19.2
+35051,London--Fanshawe,Conservative,24.3,NA
+35051,London--Fanshawe,Liberal,23.1,NA
+35051,London--Fanshawe,Other,9.2,NA
+35054,Markham--Stouffville,Liberal,51,15.5
+35054,Markham--Stouffville,Conservative,35.5,NA
+35054,Markham--Stouffville,NDP-New Democratic Party,8.5,NA
+35054,Markham--Stouffville,Other,3.2,NA
+35054,Markham--Stouffville,Green Party,1.8,NA
+35055,Markham--Thornhill,Liberal,61.5,35.2
+35055,Markham--Thornhill,Conservative,26.3,NA
+35055,Markham--Thornhill,NDP-New Democratic Party,8.4,NA
+35055,Markham--Thornhill,Green Party,2.1,NA
+35055,Markham--Thornhill,Other,1.7,NA
+35056,Markham--Unionville,Liberal,48.6,6.6
+35056,Markham--Unionville,Conservative,41.9,NA
+35056,Markham--Unionville,NDP-New Democratic Party,6.6,NA
+35056,Markham--Unionville,Green Party,2.9,NA
+35057,Milton,Liberal,51.5,18.4
+35057,Milton,Conservative,33.1,NA
+35057,Milton,NDP-New Democratic Party,8.9,NA
+35057,Milton,Other,4.3,NA
+35057,Milton,Green Party,2.3,NA
+35058,Mississauga Centre/Mississauga-Centre,Liberal,54.2,26
+35058,Mississauga Centre/Mississauga-Centre,Conservative,28.2,NA
+35058,Mississauga Centre/Mississauga-Centre,NDP-New Democratic Party,11.2,NA
+35058,Mississauga Centre/Mississauga-Centre,Other,4.5,NA
+35058,Mississauga Centre/Mississauga-Centre,Green Party,1.8,NA
+35059,Mississauga East--Cooksville/Mississauga-Est--Cooksville,Liberal,50,17.7
+35059,Mississauga East--Cooksville/Mississauga-Est--Cooksville,Conservative,32.3,NA
+35059,Mississauga East--Cooksville/Mississauga-Est--Cooksville,NDP-New Democratic Party,10.3,NA
+35059,Mississauga East--Cooksville/Mississauga-Est--Cooksville,Other,6.4,NA
+35059,Mississauga East--Cooksville/Mississauga-Est--Cooksville,Other,0.7,NA
+35059,Mississauga East--Cooksville/Mississauga-Est--Cooksville,Other,0.2,NA
+35060,Mississauga--Erin Mills,Liberal,51,17.3
+35060,Mississauga--Erin Mills,Conservative,33.7,NA
+35060,Mississauga--Erin Mills,NDP-New Democratic Party,10.2,NA
+35060,Mississauga--Erin Mills,Other,3.4,NA
+35060,Mississauga--Erin Mills,Green Party,1.6,NA
+35061,Mississauga--Lakeshore,Liberal,44.9,6.3
+35061,Mississauga--Lakeshore,Conservative,38.7,NA
+35061,Mississauga--Lakeshore,NDP-New Democratic Party,9.8,NA
+35061,Mississauga--Lakeshore,Other,4.2,NA
+35061,Mississauga--Lakeshore,Green Party,2.2,NA
+35061,Mississauga--Lakeshore,Other,0.2,NA
+35062,Mississauga--Malton,Liberal,52.8,22.2
+35062,Mississauga--Malton,Conservative,30.6,NA
+35062,Mississauga--Malton,NDP-New Democratic Party,14,NA
+35062,Mississauga--Malton,Green Party,2,NA
+35062,Mississauga--Malton,Other,0.7,NA
+35063,Mississauga--Streetsville,Liberal,47.3,13.1
+35063,Mississauga--Streetsville,Conservative,34.2,NA
+35063,Mississauga--Streetsville,NDP-New Democratic Party,12.3,NA
+35063,Mississauga--Streetsville,Other,3.7,NA
+35063,Mississauga--Streetsville,Green Party,2.1,NA
+35063,Mississauga--Streetsville,Other,0.4,NA
+35064,Nepean,Liberal,45.1,11.3
+35064,Nepean,Conservative,33.7,NA
+35064,Nepean,NDP-New Democratic Party,16.4,NA
+35064,Nepean,Other,2.8,NA
+35064,Nepean,Green Party,2,NA
+35065,Newmarket--Aurora,Liberal,43.8,5.5
+35065,Newmarket--Aurora,Conservative,38.3,NA
+35065,Newmarket--Aurora,NDP-New Democratic Party,11.5,NA
+35065,Newmarket--Aurora,Other,4.2,NA
+35065,Newmarket--Aurora,Green Party,1.8,NA
+35065,Newmarket--Aurora,Other,0.5,NA
+35066,Niagara Centre/Niagara-Centre,Liberal,35,3.8
+35066,Niagara Centre/Niagara-Centre,Conservative,31.2,NA
+35066,Niagara Centre/Niagara-Centre,NDP-New Democratic Party,24,NA
+35066,Niagara Centre/Niagara-Centre,Other,7.9,NA
+35066,Niagara Centre/Niagara-Centre,Green Party,1.9,NA
+35067,Niagara Falls,Conservative,37.9,4.5
+35067,Niagara Falls,Liberal,33.5,NA
+35067,Niagara Falls,NDP-New Democratic Party,18.2,NA
+35067,Niagara Falls,Other,8.4,NA
+35067,Niagara Falls,Green Party,1.9,NA
+35068,Niagara West/Niagara-Ouest,Conservative,45.6,15.2
+35068,Niagara West/Niagara-Ouest,Liberal,30.4,NA
+35068,Niagara West/Niagara-Ouest,NDP-New Democratic Party,12.8,NA
+35068,Niagara West/Niagara-Ouest,Other,7.1,NA
+35068,Niagara West/Niagara-Ouest,Green Party,2.9,NA
+35068,Niagara West/Niagara-Ouest,Other,1.2,NA
+35069,Nickel Belt,Liberal,35.2,8
+35069,Nickel Belt,Conservative,27.2,NA
+35069,Nickel Belt,NDP-New Democratic Party,26.6,NA
+35069,Nickel Belt,Other,9.2,NA
+35069,Nickel Belt,Green Party,1.7,NA
+35070,Nipissing--Timiskaming,Liberal,38.8,7
+35070,Nipissing--Timiskaming,Conservative,31.8,NA
+35070,Nipissing--Timiskaming,NDP-New Democratic Party,22.1,NA
+35070,Nipissing--Timiskaming,Other,7.4,NA
+35071,Northumberland--Peterborough South/Northumberland--Peterborough-Sud,Conservative,44.5,11
+35071,Northumberland--Peterborough South/Northumberland--Peterborough-Sud,Liberal,33.5,NA
+35071,Northumberland--Peterborough South/Northumberland--Peterborough-Sud,NDP-New Democratic Party,14.1,NA
+35071,Northumberland--Peterborough South/Northumberland--Peterborough-Sud,Other,5.5,NA
+35071,Northumberland--Peterborough South/Northumberland--Peterborough-Sud,Green Party,2.5,NA
+35072,Oakville,Liberal,46.1,6.1
+35072,Oakville,Conservative,40,NA
+35072,Oakville,NDP-New Democratic Party,8.8,NA
+35072,Oakville,Other,3.2,NA
+35072,Oakville,Green Party,1.8,NA
+35073,Oakville North--Burlington/Oakville-Nord--Burlington,Liberal,46.8,8.8
+35073,Oakville North--Burlington/Oakville-Nord--Burlington,Conservative,38,NA
+35073,Oakville North--Burlington/Oakville-Nord--Burlington,NDP-New Democratic Party,10,NA
+35073,Oakville North--Burlington/Oakville-Nord--Burlington,Other,3.7,NA
+35073,Oakville North--Burlington/Oakville-Nord--Burlington,Green Party,1.5,NA
+35076,Orléans,Liberal,51.9,23.1
+35076,Orléans,Conservative,28.8,NA
+35076,Orléans,NDP-New Democratic Party,14.6,NA
+35076,Orléans,Other,2.7,NA
+35076,Orléans,Green Party,1.6,NA
+35076,Orléans,Other,0.3,NA
+35074,Oshawa,Conservative,39.7,11.2
+35074,Oshawa,NDP-New Democratic Party,28.5,NA
+35074,Oshawa,Liberal,23.1,NA
+35074,Oshawa,Other,7.1,NA
+35074,Oshawa,Green Party,1.5,NA
+35075,Ottawa Centre/Ottawa-Centre,Liberal,45.5,12.5
+35075,Ottawa Centre/Ottawa-Centre,NDP-New Democratic Party,33,NA
+35075,Ottawa Centre/Ottawa-Centre,Conservative,15.7,NA
+35075,Ottawa Centre/Ottawa-Centre,Green Party,2.8,NA
+35075,Ottawa Centre/Ottawa-Centre,Other,2.2,NA
+35075,Ottawa Centre/Ottawa-Centre,Other,0.4,NA
+35075,Ottawa Centre/Ottawa-Centre,Other,0.3,NA
+35075,Ottawa Centre/Ottawa-Centre,Other,0.2,NA
+35077,Ottawa South/Ottawa-Sud,Liberal,48.8,22.8
+35077,Ottawa South/Ottawa-Sud,Conservative,26,NA
+35077,Ottawa South/Ottawa-Sud,NDP-New Democratic Party,19.4,NA
+35077,Ottawa South/Ottawa-Sud,Other,3.2,NA
+35077,Ottawa South/Ottawa-Sud,Green Party,2.4,NA
+35077,Ottawa South/Ottawa-Sud,Other,0.2,NA
+35079,Ottawa West--Nepean/Ottawa-Ouest--Nepean,Liberal,45.1,16.4
+35079,Ottawa West--Nepean/Ottawa-Ouest--Nepean,Conservative,28.7,NA
+35079,Ottawa West--Nepean/Ottawa-Ouest--Nepean,NDP-New Democratic Party,19.4,NA
+35079,Ottawa West--Nepean/Ottawa-Ouest--Nepean,Other,3.3,NA
+35079,Ottawa West--Nepean/Ottawa-Ouest--Nepean,Green Party,2.9,NA
+35079,Ottawa West--Nepean/Ottawa-Ouest--Nepean,Other,0.6,NA
+35078,Ottawa--Vanier,Liberal,49,25.4
+35078,Ottawa--Vanier,NDP-New Democratic Party,23.6,NA
+35078,Ottawa--Vanier,Conservative,20,NA
+35078,Ottawa--Vanier,Other,3.2,NA
+35078,Ottawa--Vanier,Green Party,3.1,NA
+35078,Ottawa--Vanier,Other,0.4,NA
+35078,Ottawa--Vanier,Other,0.3,NA
+35078,Ottawa--Vanier,Other,0.3,NA
+35080,Oxford,Conservative,47,26.5
+35080,Oxford,Liberal,20.5,NA
+35080,Oxford,NDP-New Democratic Party,18.3,NA
+35080,Oxford,Other,10.6,NA
+35080,Oxford,Green Party,2.7,NA
+35080,Oxford,Other,0.8,NA
+35081,Parkdale--High Park,Liberal,42.5,3.2
+35081,Parkdale--High Park,NDP-New Democratic Party,39.2,NA
+35081,Parkdale--High Park,Conservative,13,NA
+35081,Parkdale--High Park,Other,3.1,NA
+35081,Parkdale--High Park,Green Party,1.8,NA
+35081,Parkdale--High Park,Other,0.2,NA
+35081,Parkdale--High Park,Other,0.2,NA
+35082,Parry Sound--Muskoka,Conservative,47.9,26.3
+35082,Parry Sound--Muskoka,Liberal,21.6,NA
+35082,Parry Sound--Muskoka,NDP-New Democratic Party,16.8,NA
+35082,Parry Sound--Muskoka,Other,7.5,NA
+35082,Parry Sound--Muskoka,Green Party,5.6,NA
+35082,Parry Sound--Muskoka,Other,0.3,NA
+35082,Parry Sound--Muskoka,Other,0.2,NA
+35083,Perth--Wellington,Conservative,48.6,23.9
+35083,Perth--Wellington,Liberal,24.6,NA
+35083,Perth--Wellington,NDP-New Democratic Party,17.2,NA
+35083,Perth--Wellington,Other,9.6,NA
+35084,Peterborough--Kawartha,Conservative,39,3.9
+35084,Peterborough--Kawartha,Liberal,35.1,NA
+35084,Peterborough--Kawartha,NDP-New Democratic Party,18.9,NA
+35084,Peterborough--Kawartha,Other,4.4,NA
+35084,Peterborough--Kawartha,Green Party,2.2,NA
+35084,Peterborough--Kawartha,Other,0.3,NA
+35085,Pickering--Uxbridge,Liberal,46.9,10.8
+35085,Pickering--Uxbridge,Conservative,36.1,NA
+35085,Pickering--Uxbridge,NDP-New Democratic Party,13.1,NA
+35085,Pickering--Uxbridge,Other,4,NA
+35086,Renfrew--Nipissing--Pembroke,Conservative,49.5,28.5
+35086,Renfrew--Nipissing--Pembroke,NDP-New Democratic Party,21,NA
+35086,Renfrew--Nipissing--Pembroke,Liberal,19.4,NA
+35086,Renfrew--Nipissing--Pembroke,Other,7.6,NA
+35086,Renfrew--Nipissing--Pembroke,Green Party,1.9,NA
+35086,Renfrew--Nipissing--Pembroke,Other,0.6,NA
+35087,Richmond Hill,Liberal,47.7,8.9
+35087,Richmond Hill,Conservative,38.8,NA
+35087,Richmond Hill,NDP-New Democratic Party,8.7,NA
+35087,Richmond Hill,Other,3,NA
+35087,Richmond Hill,Other,1.4,NA
+35087,Richmond Hill,Other,0.4,NA
+35089,St. Catharines,Liberal,37.8,5.2
+35089,St. Catharines,Conservative,32.6,NA
+35089,St. Catharines,NDP-New Democratic Party,21.1,NA
+35089,St. Catharines,Other,6.6,NA
+35089,St. Catharines,Green Party,1.9,NA
+35091,Sarnia--Lambton,Conservative,46.2,25.1
+35091,Sarnia--Lambton,NDP-New Democratic Party,21.1,NA
+35091,Sarnia--Lambton,Liberal,19.3,NA
+35091,Sarnia--Lambton,Other,11.2,NA
+35091,Sarnia--Lambton,Green Party,1.5,NA
+35091,Sarnia--Lambton,Other,0.8,NA
+35092,Sault Ste. Marie,Liberal,37.9,0.6
+35092,Sault Ste. Marie,Conservative,37.3,NA
+35092,Sault Ste. Marie,NDP-New Democratic Party,20,NA
+35092,Sault Ste. Marie,Other,4.8,NA
+35094,Scarborough Centre/Scarborough-Centre,Liberal,57.6,33.1
+35094,Scarborough Centre/Scarborough-Centre,Conservative,24.4,NA
+35094,Scarborough Centre/Scarborough-Centre,NDP-New Democratic Party,13.6,NA
+35094,Scarborough Centre/Scarborough-Centre,Other,3.7,NA
+35094,Scarborough Centre/Scarborough-Centre,Other,0.7,NA
+35096,Scarborough North/Scarborough-Nord,Liberal,66.6,47.7
+35096,Scarborough North/Scarborough-Nord,Conservative,18.9,NA
+35096,Scarborough North/Scarborough-Nord,NDP-New Democratic Party,11,NA
+35096,Scarborough North/Scarborough-Nord,Other,2.4,NA
+35096,Scarborough North/Scarborough-Nord,Other,1.1,NA
+35098,Scarborough Southwest/Scarborough-Sud-Ouest,Liberal,57.5,36.7
+35098,Scarborough Southwest/Scarborough-Sud-Ouest,Conservative,20.8,NA
+35098,Scarborough Southwest/Scarborough-Sud-Ouest,NDP-New Democratic Party,16,NA
+35098,Scarborough Southwest/Scarborough-Sud-Ouest,Other,2.9,NA
+35098,Scarborough Southwest/Scarborough-Sud-Ouest,Green Party,2.5,NA
+35098,Scarborough Southwest/Scarborough-Sud-Ouest,Other,0.3,NA
+35093,Scarborough--Agincourt,Liberal,56.5,27.5
+35093,Scarborough--Agincourt,Conservative,29,NA
+35093,Scarborough--Agincourt,NDP-New Democratic Party,10,NA
+35093,Scarborough--Agincourt,Other,2.7,NA
+35093,Scarborough--Agincourt,Green Party,1.7,NA
+35095,Scarborough--Guildwood,Liberal,61.1,39.8
+35095,Scarborough--Guildwood,Conservative,21.3,NA
+35095,Scarborough--Guildwood,NDP-New Democratic Party,13.6,NA
+35095,Scarborough--Guildwood,Other,2.9,NA
+35095,Scarborough--Guildwood,Other,0.4,NA
+35095,Scarborough--Guildwood,Other,0.3,NA
+35095,Scarborough--Guildwood,Other,0.2,NA
+35095,Scarborough--Guildwood,Other,0.1,NA
+35097,Scarborough--Rouge Park,Liberal,62.8,41.7
+35097,Scarborough--Rouge Park,Conservative,21.1,NA
+35097,Scarborough--Rouge Park,NDP-New Democratic Party,13.3,NA
+35097,Scarborough--Rouge Park,Other,2.9,NA
+35100,Simcoe North/Simcoe-Nord,Conservative,43,12.7
+35100,Simcoe North/Simcoe-Nord,Liberal,30.4,NA
+35100,Simcoe North/Simcoe-Nord,NDP-New Democratic Party,15.7,NA
+35100,Simcoe North/Simcoe-Nord,Other,7.6,NA
+35100,Simcoe North/Simcoe-Nord,Green Party,3,NA
+35100,Simcoe North/Simcoe-Nord,Other,0.3,NA
+35099,Simcoe--Grey,Conservative,47.3,19.5
+35099,Simcoe--Grey,Liberal,27.8,NA
+35099,Simcoe--Grey,NDP-New Democratic Party,13.2,NA
+35099,Simcoe--Grey,Other,7.2,NA
+35099,Simcoe--Grey,Green Party,3.9,NA
+35099,Simcoe--Grey,Other,0.5,NA
+35101,Spadina--Fort York,Liberal,38.9,4.4
+35101,Spadina--Fort York,NDP-New Democratic Party,34.5,NA
+35101,Spadina--Fort York,Conservative,20.2,NA
+35101,Spadina--Fort York,Green Party,3.4,NA
+35101,Spadina--Fort York,Other,3,NA
+35102,Stormont--Dundas--South Glengarry,Conservative,55.6,31.9
+35102,Stormont--Dundas--South Glengarry,Liberal,23.6,NA
+35102,Stormont--Dundas--South Glengarry,NDP-New Democratic Party,11,NA
+35102,Stormont--Dundas--South Glengarry,Other,7.4,NA
+35102,Stormont--Dundas--South Glengarry,Green Party,2.3,NA
+35103,Sudbury,Liberal,34.5,5
+35103,Sudbury,NDP-New Democratic Party,29.5,NA
+35103,Sudbury,Conservative,27.7,NA
+35103,Sudbury,Other,5.9,NA
+35103,Sudbury,Green Party,2,NA
+35103,Sudbury,Other,0.2,NA
+35104,Thornhill,Conservative,51.3,15
+35104,Thornhill,Liberal,36.3,NA
+35104,Thornhill,NDP-New Democratic Party,6.1,NA
+35104,Thornhill,Other,4.6,NA
+35104,Thornhill,Green Party,1.7,NA
+35105,Thunder Bay--Rainy River,Liberal,34.3,5
+35105,Thunder Bay--Rainy River,Conservative,29.3,NA
+35105,Thunder Bay--Rainy River,NDP-New Democratic Party,28.5,NA
+35105,Thunder Bay--Rainy River,Other,6.6,NA
+35105,Thunder Bay--Rainy River,Green Party,1.4,NA
+35106,Thunder Bay--Superior North/Thunder Bay--Supérieur-Nord,Liberal,40.7,13.6
+35106,Thunder Bay--Superior North/Thunder Bay--Supérieur-Nord,NDP-New Democratic Party,27.1,NA
+35106,Thunder Bay--Superior North/Thunder Bay--Supérieur-Nord,Conservative,24.2,NA
+35106,Thunder Bay--Superior North/Thunder Bay--Supérieur-Nord,Other,5.9,NA
+35106,Thunder Bay--Superior North/Thunder Bay--Supérieur-Nord,Green Party,1.8,NA
+35106,Thunder Bay--Superior North/Thunder Bay--Supérieur-Nord,Other,0.3,NA
+35107,Timmins--James Bay/Timmins--Baie James,NDP-New Democratic Party,35.1,7.9
+35107,Timmins--James Bay/Timmins--Baie James,Conservative,27.2,NA
+35107,Timmins--James Bay/Timmins--Baie James,Liberal,24.6,NA
+35107,Timmins--James Bay/Timmins--Baie James,Other,13.1,NA
+35108,Toronto Centre/Toronto-Centre,Liberal,50.4,24.4
+35108,Toronto Centre/Toronto-Centre,NDP-New Democratic Party,26,NA
+35108,Toronto Centre/Toronto-Centre,Conservative,12.2,NA
+35108,Toronto Centre/Toronto-Centre,Green Party,8.6,NA
+35108,Toronto Centre/Toronto-Centre,Other,2.3,NA
+35108,Toronto Centre/Toronto-Centre,Other,0.4,NA
+35108,Toronto Centre/Toronto-Centre,Other,0.3,NA
+35109,Toronto--Danforth,Liberal,48.4,14.7
+35109,Toronto--Danforth,NDP-New Democratic Party,33.7,NA
+35109,Toronto--Danforth,Conservative,12.6,NA
+35109,Toronto--Danforth,Other,2.5,NA
+35109,Toronto--Danforth,Green Party,2,NA
+35109,Toronto--Danforth,Other,0.4,NA
+35109,Toronto--Danforth,Other,0.4,NA
+35109,Toronto--Danforth,Other,0.2,NA
+35090,Toronto--St. Paul's,Liberal,49.2,23.9
+35090,Toronto--St. Paul's,Conservative,25.3,NA
+35090,Toronto--St. Paul's,NDP-New Democratic Party,16.8,NA
+35090,Toronto--St. Paul's,Green Party,6,NA
+35090,Toronto--St. Paul's,Other,2.7,NA
+35110,University--Rosedale,Liberal,47.5,22.3
+35110,University--Rosedale,NDP-New Democratic Party,25.2,NA
+35110,University--Rosedale,Conservative,20.1,NA
+35110,University--Rosedale,Green Party,4.2,NA
+35110,University--Rosedale,Other,2.5,NA
+35110,University--Rosedale,Other,0.5,NA
+35111,Vaughan--Woodbridge,Liberal,46,5.7
+35111,Vaughan--Woodbridge,Conservative,40.3,NA
+35111,Vaughan--Woodbridge,NDP-New Democratic Party,6.9,NA
+35111,Vaughan--Woodbridge,Other,5.4,NA
+35111,Vaughan--Woodbridge,Green Party,1,NA
+35111,Vaughan--Woodbridge,Other,0.3,NA
+35112,Waterloo,Liberal,45.1,17.4
+35112,Waterloo,Conservative,27.7,NA
+35112,Waterloo,NDP-New Democratic Party,19,NA
+35112,Waterloo,Other,4.7,NA
+35112,Waterloo,Green Party,3.4,NA
+35113,Wellington--Halton Hills,Conservative,52.1,24.9
+35113,Wellington--Halton Hills,Liberal,27.2,NA
+35113,Wellington--Halton Hills,NDP-New Democratic Party,10.4,NA
+35113,Wellington--Halton Hills,Other,6.4,NA
+35113,Wellington--Halton Hills,Green Party,3.9,NA
+35114,Whitby,Liberal,44.1,8.2
+35114,Whitby,Conservative,35.9,NA
+35114,Whitby,NDP-New Democratic Party,14.1,NA
+35114,Whitby,Other,4.3,NA
+35114,Whitby,Green Party,1.6,NA
+35115,Willowdale,Liberal,51.2,17.3
+35115,Willowdale,Conservative,33.9,NA
+35115,Willowdale,NDP-New Democratic Party,10.3,NA
+35115,Willowdale,Other,2.7,NA
+35115,Willowdale,Green Party,2,NA
+35117,Windsor West/Windsor-Ouest,NDP-New Democratic Party,44.2,16.5
+35117,Windsor West/Windsor-Ouest,Liberal,27.8,NA
+35117,Windsor West/Windsor-Ouest,Conservative,19.3,NA
+35117,Windsor West/Windsor-Ouest,Other,8.3,NA
+35117,Windsor West/Windsor-Ouest,Other,0.3,NA
+35116,Windsor--Tecumseh,Liberal,31.8,1.2
+35116,Windsor--Tecumseh,NDP-New Democratic Party,30.7,NA
+35116,Windsor--Tecumseh,Conservative,25.6,NA
+35116,Windsor--Tecumseh,Other,10.4,NA
+35116,Windsor--Tecumseh,Green Party,1.2,NA
+35116,Windsor--Tecumseh,Other,0.3,NA
+35118,York Centre/York-Centre,Liberal,47.3,9.4
+35118,York Centre/York-Centre,Conservative,37.8,NA
+35118,York Centre/York-Centre,NDP-New Democratic Party,10.2,NA
+35118,York Centre/York-Centre,Other,4.7,NA
+35120,York South--Weston/York-Sud--Weston,Liberal,56.1,35.9
+35120,York South--Weston/York-Sud--Weston,Conservative,20.2,NA
+35120,York South--Weston/York-Sud--Weston,NDP-New Democratic Party,16.9,NA
+35120,York South--Weston/York-Sud--Weston,Other,4.5,NA
+35120,York South--Weston/York-Sud--Weston,Green Party,2.3,NA
+35119,York--Simcoe,Conservative,50,20.9
+35119,York--Simcoe,Liberal,29,NA
+35119,York--Simcoe,NDP-New Democratic Party,13.6,NA
+35119,York--Simcoe,Other,7.3,NA
+46001,Brandon--Souris,Conservative,59.6,39
+46001,Brandon--Souris,NDP-New Democratic Party,20.5,NA
+46001,Brandon--Souris,Liberal,12.1,NA
+46001,Brandon--Souris,Other,7.8,NA
+46002,Charleswood--St. James--Assiniboia--Headingley,Conservative,40,1
+46002,Charleswood--St. James--Assiniboia--Headingley,Liberal,39,NA
+46002,Charleswood--St. James--Assiniboia--Headingley,NDP-New Democratic Party,15.4,NA
+46002,Charleswood--St. James--Assiniboia--Headingley,Other,3.5,NA
+46002,Charleswood--St. James--Assiniboia--Headingley,Green Party,2.1,NA
+46003,Churchill--Keewatinook Aski,NDP-New Democratic Party,42.6,17.4
+46003,Churchill--Keewatinook Aski,Liberal,25.2,NA
+46003,Churchill--Keewatinook Aski,Conservative,24.2,NA
+46003,Churchill--Keewatinook Aski,Other,5,NA
+46003,Churchill--Keewatinook Aski,Green Party,3.1,NA
+46004,Dauphin--Swan River--Neepawa,Conservative,59,44.2
+46004,Dauphin--Swan River--Neepawa,NDP-New Democratic Party,14.7,NA
+46004,Dauphin--Swan River--Neepawa,Liberal,12.7,NA
+46004,Dauphin--Swan River--Neepawa,Other,10.5,NA
+46004,Dauphin--Swan River--Neepawa,Green Party,2.2,NA
+46004,Dauphin--Swan River--Neepawa,Other,0.9,NA
+46005,Elmwood--Transcona,NDP-New Democratic Party,49.7,21.6
+46005,Elmwood--Transcona,Conservative,28.1,NA
+46005,Elmwood--Transcona,Liberal,14.7,NA
+46005,Elmwood--Transcona,Other,5.8,NA
+46005,Elmwood--Transcona,Green Party,1.6,NA
+46006,Kildonan--St. Paul,Conservative,41.8,12.4
+46006,Kildonan--St. Paul,Liberal,29.4,NA
+46006,Kildonan--St. Paul,NDP-New Democratic Party,23.5,NA
+46006,Kildonan--St. Paul,Other,5.3,NA
+46007,Portage--Lisgar,Conservative,52.5,30.9
+46007,Portage--Lisgar,Other,21.6,NA
+46007,Portage--Lisgar,NDP-New Democratic Party,13.4,NA
+46007,Portage--Lisgar,Liberal,11,NA
+46007,Portage--Lisgar,Other,1.6,NA
+46008,Provencher,Conservative,48.7,31.7
+46008,Provencher,Liberal,17,NA
+46008,Provencher,Other,16.5,NA
+46008,Provencher,NDP-New Democratic Party,12.6,NA
+46008,Provencher,Other,2.7,NA
+46008,Provencher,Green Party,2.6,NA
+46009,Saint Boniface--Saint Vital/Saint-Boniface--Saint-Vital,Liberal,43.8,15.7
+46009,Saint Boniface--Saint Vital/Saint-Boniface--Saint-Vital,Conservative,28,NA
+46009,Saint Boniface--Saint Vital/Saint-Boniface--Saint-Vital,NDP-New Democratic Party,21.5,NA
+46009,Saint Boniface--Saint Vital/Saint-Boniface--Saint-Vital,Other,4.4,NA
+46009,Saint Boniface--Saint Vital/Saint-Boniface--Saint-Vital,Green Party,1.5,NA
+46009,Saint Boniface--Saint Vital/Saint-Boniface--Saint-Vital,Other,0.2,NA
+46009,Saint Boniface--Saint Vital/Saint-Boniface--Saint-Vital,Other,0.1,NA
+46009,Saint Boniface--Saint Vital/Saint-Boniface--Saint-Vital,Other,0.1,NA
+46009,Saint Boniface--Saint Vital/Saint-Boniface--Saint-Vital,Other,0.1,NA
+46009,Saint Boniface--Saint Vital/Saint-Boniface--Saint-Vital,Other,0.1,NA
+46009,Saint Boniface--Saint Vital/Saint-Boniface--Saint-Vital,Other,0.1,NA
+46009,Saint Boniface--Saint Vital/Saint-Boniface--Saint-Vital,Other,0,NA
+46009,Saint Boniface--Saint Vital/Saint-Boniface--Saint-Vital,Other,0,NA
+46009,Saint Boniface--Saint Vital/Saint-Boniface--Saint-Vital,Other,0,NA
+46009,Saint Boniface--Saint Vital/Saint-Boniface--Saint-Vital,Other,0,NA
+46009,Saint Boniface--Saint Vital/Saint-Boniface--Saint-Vital,Other,0,NA
+46009,Saint Boniface--Saint Vital/Saint-Boniface--Saint-Vital,Other,0,NA
+46009,Saint Boniface--Saint Vital/Saint-Boniface--Saint-Vital,Other,0,NA
+46009,Saint Boniface--Saint Vital/Saint-Boniface--Saint-Vital,Other,0,NA
+46009,Saint Boniface--Saint Vital/Saint-Boniface--Saint-Vital,Other,0,NA
+46009,Saint Boniface--Saint Vital/Saint-Boniface--Saint-Vital,Other,0,NA
+46010,Selkirk--Interlake--Eastman,Conservative,57.1,37.7
+46010,Selkirk--Interlake--Eastman,NDP-New Democratic Party,19.4,NA
+46010,Selkirk--Interlake--Eastman,Liberal,13.2,NA
+46010,Selkirk--Interlake--Eastman,Other,7.7,NA
+46010,Selkirk--Interlake--Eastman,Green Party,2.7,NA
+46011,Winnipeg Centre/Winnipeg-Centre,NDP-New Democratic Party,50.3,21.9
+46011,Winnipeg Centre/Winnipeg-Centre,Liberal,28.4,NA
+46011,Winnipeg Centre/Winnipeg-Centre,Conservative,12.8,NA
+46011,Winnipeg Centre/Winnipeg-Centre,Other,4.1,NA
+46011,Winnipeg Centre/Winnipeg-Centre,Green Party,2.4,NA
+46011,Winnipeg Centre/Winnipeg-Centre,Other,1.3,NA
+46011,Winnipeg Centre/Winnipeg-Centre,Other,0.7,NA
+46012,Winnipeg North/Winnipeg-Nord,Liberal,52.3,23.7
+46012,Winnipeg North/Winnipeg-Nord,NDP-New Democratic Party,28.6,NA
+46012,Winnipeg North/Winnipeg-Nord,Conservative,13.1,NA
+46012,Winnipeg North/Winnipeg-Nord,Other,4.2,NA
+46012,Winnipeg North/Winnipeg-Nord,Green Party,1.3,NA
+46012,Winnipeg North/Winnipeg-Nord,Other,0.3,NA
+46013,Winnipeg South/Winnipeg-Sud,Liberal,47.5,13.7
+46013,Winnipeg South/Winnipeg-Sud,Conservative,33.8,NA
+46013,Winnipeg South/Winnipeg-Sud,NDP-New Democratic Party,14,NA
+46013,Winnipeg South/Winnipeg-Sud,Other,3.3,NA
+46013,Winnipeg South/Winnipeg-Sud,Green Party,1.4,NA
+46014,Winnipeg South Centre/Winnipeg-Centre-Sud,Liberal,45.5,17.7
+46014,Winnipeg South Centre/Winnipeg-Centre-Sud,Conservative,27.8,NA
+46014,Winnipeg South Centre/Winnipeg-Centre-Sud,NDP-New Democratic Party,20.6,NA
+46014,Winnipeg South Centre/Winnipeg-Centre-Sud,Other,2.8,NA
+46014,Winnipeg South Centre/Winnipeg-Centre-Sud,Green Party,2.7,NA
+46014,Winnipeg South Centre/Winnipeg-Centre-Sud,Other,0.5,NA
+47001,Battlefords--Lloydminster,Conservative,68.7,56.7
+47001,Battlefords--Lloydminster,NDP-New Democratic Party,12,NA
+47001,Battlefords--Lloydminster,Other,7,NA
+47001,Battlefords--Lloydminster,Other,5.9,NA
+47001,Battlefords--Lloydminster,Liberal,5.6,NA
+47001,Battlefords--Lloydminster,Green Party,0.8,NA
+47004,Carlton Trail--Eagle Creek/Sentier Carlton--Eagle Creek,Conservative,68.6,55
+47004,Carlton Trail--Eagle Creek/Sentier Carlton--Eagle Creek,NDP-New Democratic Party,13.6,NA
+47004,Carlton Trail--Eagle Creek/Sentier Carlton--Eagle Creek,Other,9.2,NA
+47004,Carlton Trail--Eagle Creek/Sentier Carlton--Eagle Creek,Liberal,5,NA
+47004,Carlton Trail--Eagle Creek/Sentier Carlton--Eagle Creek,Other,2.6,NA
+47004,Carlton Trail--Eagle Creek/Sentier Carlton--Eagle Creek,Green Party,0.9,NA
+47002,Cypress Hills--Grasslands,Conservative,71.5,61
+47002,Cypress Hills--Grasslands,NDP-New Democratic Party,10.5,NA
+47002,Cypress Hills--Grasslands,Other,8.2,NA
+47002,Cypress Hills--Grasslands,Liberal,4.4,NA
+47002,Cypress Hills--Grasslands,Other,4,NA
+47002,Cypress Hills--Grasslands,Green Party,0.8,NA
+47002,Cypress Hills--Grasslands,Other,0.6,NA
+47003,Desnethé--Missinippi--Churchill River/Desnethé--Missinippi--Rivière Churchill,Conservative,48.8,21.9
+47003,Desnethé--Missinippi--Churchill River/Desnethé--Missinippi--Rivière Churchill,Liberal,26.9,NA
+47003,Desnethé--Missinippi--Churchill River/Desnethé--Missinippi--Rivière Churchill,NDP-New Democratic Party,17.2,NA
+47003,Desnethé--Missinippi--Churchill River/Desnethé--Missinippi--Rivière Churchill,Other,4.9,NA
+47003,Desnethé--Missinippi--Churchill River/Desnethé--Missinippi--Rivière Churchill,Other,1.2,NA
+47003,Desnethé--Missinippi--Churchill River/Desnethé--Missinippi--Rivière Churchill,Green Party,1,NA
+47005,Moose Jaw--Lake Centre--Lanigan,Conservative,60.4,41
+47005,Moose Jaw--Lake Centre--Lanigan,NDP-New Democratic Party,19.4,NA
+47005,Moose Jaw--Lake Centre--Lanigan,Other,11.4,NA
+47005,Moose Jaw--Lake Centre--Lanigan,Liberal,6.1,NA
+47005,Moose Jaw--Lake Centre--Lanigan,Other,1.6,NA
+47005,Moose Jaw--Lake Centre--Lanigan,Green Party,1.1,NA
+47006,Prince Albert,Conservative,64.9,49.7
+47006,Prince Albert,NDP-New Democratic Party,15.1,NA
+47006,Prince Albert,Liberal,10.6,NA
+47006,Prince Albert,Other,6.9,NA
+47006,Prince Albert,Other,1.4,NA
+47006,Prince Albert,Green Party,1.1,NA
+47007,Regina--Lewvan,Conservative,46.8,12.3
+47007,Regina--Lewvan,NDP-New Democratic Party,34.5,NA
+47007,Regina--Lewvan,Liberal,13.8,NA
+47007,Regina--Lewvan,Other,3.6,NA
+47007,Regina--Lewvan,Green Party,1.2,NA
+47008,Regina--Qu'Appelle,Conservative,61.9,41
+47008,Regina--Qu'Appelle,NDP-New Democratic Party,20.9,NA
+47008,Regina--Qu'Appelle,Liberal,10.1,NA
+47008,Regina--Qu'Appelle,Other,5.1,NA
+47008,Regina--Qu'Appelle,Green Party,2,NA
+47009,Regina--Wascana,Conservative,49.9,23
+47009,Regina--Wascana,Liberal,26.9,NA
+47009,Regina--Wascana,NDP-New Democratic Party,18.1,NA
+47009,Regina--Wascana,Other,3.5,NA
+47009,Regina--Wascana,Green Party,1.6,NA
+47012,Saskatoon West/Saskatoon-Ouest,Conservative,45.4,6
+47012,Saskatoon West/Saskatoon-Ouest,NDP-New Democratic Party,39.3,NA
+47012,Saskatoon West/Saskatoon-Ouest,Liberal,8.2,NA
+47012,Saskatoon West/Saskatoon-Ouest,Other,6.1,NA
+47012,Saskatoon West/Saskatoon-Ouest,Green Party,1.1,NA
+47010,Saskatoon--Grasswood,Conservative,49.9,19.8
+47010,Saskatoon--Grasswood,NDP-New Democratic Party,30.1,NA
+47010,Saskatoon--Grasswood,Liberal,14.2,NA
+47010,Saskatoon--Grasswood,Other,4.6,NA
+47010,Saskatoon--Grasswood,Green Party,1.2,NA
+47011,Saskatoon--University,Conservative,48,12.6
+47011,Saskatoon--University,NDP-New Democratic Party,35.4,NA
+47011,Saskatoon--University,Liberal,10.8,NA
+47011,Saskatoon--University,Other,4.2,NA
+47011,Saskatoon--University,Green Party,1,NA
+47011,Saskatoon--University,Other,0.5,NA
+47011,Saskatoon--University,Other,0.2,NA
+47013,Souris--Moose Mountain,Conservative,76.4,67.3
+47013,Souris--Moose Mountain,Other,9.1,NA
+47013,Souris--Moose Mountain,NDP-New Democratic Party,7.9,NA
+47013,Souris--Moose Mountain,Liberal,4.2,NA
+47013,Souris--Moose Mountain,Other,2.5,NA
+47014,Yorkton--Melville,Conservative,68.7,56.4
+47014,Yorkton--Melville,NDP-New Democratic Party,12.2,NA
+47014,Yorkton--Melville,Other,9.3,NA
+47014,Yorkton--Melville,Liberal,6.3,NA
+47014,Yorkton--Melville,Green Party,1.8,NA
+47014,Yorkton--Melville,Other,1.7,NA
+48001,Banff--Airdrie,Conservative,56.7,40.5
+48001,Banff--Airdrie,NDP-New Democratic Party,16.2,NA
+48001,Banff--Airdrie,Liberal,12.4,NA
+48001,Banff--Airdrie,Other,7.5,NA
+48001,Banff--Airdrie,Other,2.6,NA
+48001,Banff--Airdrie,Other,1.9,NA
+48001,Banff--Airdrie,Green Party,1.8,NA
+48001,Banff--Airdrie,Other,0.6,NA
+48001,Banff--Airdrie,Other,0.1,NA
+48002,Battle River--Crowfoot,Conservative,71.3,61.5
+48002,Battle River--Crowfoot,NDP-New Democratic Party,9.8,NA
+48002,Battle River--Crowfoot,Other,9.3,NA
+48002,Battle River--Crowfoot,Liberal,4.3,NA
+48002,Battle River--Crowfoot,Other,4.1,NA
+48002,Battle River--Crowfoot,Green Party,0.9,NA
+48002,Battle River--Crowfoot,Other,0.3,NA
+48003,Bow River,Conservative,69.8,59.8
+48003,Bow River,Other,10,NA
+48003,Bow River,NDP-New Democratic Party,9.2,NA
+48003,Bow River,Liberal,7.6,NA
+48003,Bow River,Other,2.7,NA
+48003,Bow River,Other,0.8,NA
+48004,Calgary Centre/Calgary-Centre,Conservative,51.3,21.6
+48004,Calgary Centre/Calgary-Centre,Liberal,29.7,NA
+48004,Calgary Centre/Calgary-Centre,NDP-New Democratic Party,16.4,NA
+48004,Calgary Centre/Calgary-Centre,Green Party,1.6,NA
+48004,Calgary Centre/Calgary-Centre,Other,1,NA
+48005,Calgary Confederation,Conservative,46,17.5
+48005,Calgary Confederation,Liberal,28.5,NA
+48005,Calgary Confederation,NDP-New Democratic Party,17.1,NA
+48005,Calgary Confederation,Other,4.3,NA
+48005,Calgary Confederation,Green Party,3.7,NA
+48005,Calgary Confederation,Other,0.3,NA
+48006,Calgary Forest Lawn,Conservative,44.5,16.8
+48006,Calgary Forest Lawn,Liberal,27.7,NA
+48006,Calgary Forest Lawn,NDP-New Democratic Party,18.1,NA
+48006,Calgary Forest Lawn,Other,7.1,NA
+48006,Calgary Forest Lawn,Green Party,2,NA
+48006,Calgary Forest Lawn,Other,0.5,NA
+48007,Calgary Heritage,Conservative,57.7,40.2
+48007,Calgary Heritage,NDP-New Democratic Party,17.4,NA
+48007,Calgary Heritage,Liberal,16.7,NA
+48007,Calgary Heritage,Other,5,NA
+48007,Calgary Heritage,Green Party,1.4,NA
+48007,Calgary Heritage,Other,1.3,NA
+48007,Calgary Heritage,Other,0.4,NA
+48008,Calgary Midnapore,Conservative,60.7,42.3
+48008,Calgary Midnapore,NDP-New Democratic Party,18.3,NA
+48008,Calgary Midnapore,Liberal,12.3,NA
+48008,Calgary Midnapore,Other,6.1,NA
+48008,Calgary Midnapore,Green Party,1.3,NA
+48008,Calgary Midnapore,Other,1.3,NA
+48009,Calgary Nose Hill,Conservative,55.6,35.1
+48009,Calgary Nose Hill,Liberal,20.5,NA
+48009,Calgary Nose Hill,NDP-New Democratic Party,16.9,NA
+48009,Calgary Nose Hill,Other,4.6,NA
+48009,Calgary Nose Hill,Green Party,1.3,NA
+48009,Calgary Nose Hill,Other,0.6,NA
+48009,Calgary Nose Hill,Other,0.3,NA
+48009,Calgary Nose Hill,Other,0.2,NA
+48009,Calgary Nose Hill,Other,0.1,NA
+48010,Calgary Rocky Ridge,Conservative,54.5,32.3
+48010,Calgary Rocky Ridge,Liberal,22.2,NA
+48010,Calgary Rocky Ridge,NDP-New Democratic Party,16.3,NA
+48010,Calgary Rocky Ridge,Other,4.5,NA
+48010,Calgary Rocky Ridge,Green Party,1.6,NA
+48010,Calgary Rocky Ridge,Other,0.8,NA
+48011,Calgary Shepard,Conservative,60.4,43.9
+48011,Calgary Shepard,NDP-New Democratic Party,16.5,NA
+48011,Calgary Shepard,Liberal,14,NA
+48011,Calgary Shepard,Other,5.8,NA
+48011,Calgary Shepard,Green Party,1.8,NA
+48011,Calgary Shepard,Other,1.2,NA
+48011,Calgary Shepard,Other,0.3,NA
+48011,Calgary Shepard,Other,0.1,NA
+48012,Calgary Signal Hill,Conservative,59,40.4
+48012,Calgary Signal Hill,Liberal,18.6,NA
+48012,Calgary Signal Hill,NDP-New Democratic Party,14.8,NA
+48012,Calgary Signal Hill,Other,4.8,NA
+48012,Calgary Signal Hill,Green Party,1.8,NA
+48012,Calgary Signal Hill,Other,1,NA
+48013,Calgary Skyview,Liberal,42.4,6.3
+48013,Calgary Skyview,Conservative,36.1,NA
+48013,Calgary Skyview,NDP-New Democratic Party,16.2,NA
+48013,Calgary Skyview,Other,3.6,NA
+48013,Calgary Skyview,Green Party,0.9,NA
+48013,Calgary Skyview,Other,0.4,NA
+48013,Calgary Skyview,Other,0.2,NA
+48013,Calgary Skyview,Other,0.2,NA
+48014,Edmonton Centre/Edmonton-Centre,Liberal,33.7,1.3
+48014,Edmonton Centre/Edmonton-Centre,Conservative,32.4,NA
+48014,Edmonton Centre/Edmonton-Centre,NDP-New Democratic Party,28.8,NA
+48014,Edmonton Centre/Edmonton-Centre,Other,4.3,NA
+48014,Edmonton Centre/Edmonton-Centre,Other,0.5,NA
+48014,Edmonton Centre/Edmonton-Centre,Other,0.2,NA
+48015,Edmonton Griesbach,NDP-New Democratic Party,40.5,3.5
+48015,Edmonton Griesbach,Conservative,37.1,NA
+48015,Edmonton Griesbach,Liberal,13.9,NA
+48015,Edmonton Griesbach,Other,6.1,NA
+48015,Edmonton Griesbach,Green Party,1.2,NA
+48015,Edmonton Griesbach,Other,0.6,NA
+48015,Edmonton Griesbach,Other,0.3,NA
+48015,Edmonton Griesbach,Other,0.2,NA
+48016,Edmonton Manning,Conservative,41.1,10.6
+48016,Edmonton Manning,NDP-New Democratic Party,30.5,NA
+48016,Edmonton Manning,Liberal,21.3,NA
+48016,Edmonton Manning,Other,6.9,NA
+48016,Edmonton Manning,Other,0.3,NA
+48017,Edmonton Mill Woods,Conservative,37.9,3.9
+48017,Edmonton Mill Woods,Liberal,34,NA
+48017,Edmonton Mill Woods,NDP-New Democratic Party,21.8,NA
+48017,Edmonton Mill Woods,Other,6,NA
+48017,Edmonton Mill Woods,Other,0.4,NA
+48018,Edmonton Riverbend,Conservative,45.1,20.3
+48018,Edmonton Riverbend,Liberal,24.9,NA
+48018,Edmonton Riverbend,NDP-New Democratic Party,24.9,NA
+48018,Edmonton Riverbend,Other,3.8,NA
+48018,Edmonton Riverbend,Green Party,1.3,NA
+48019,Edmonton Strathcona,NDP-New Democratic Party,60.7,35.2
+48019,Edmonton Strathcona,Conservative,25.5,NA
+48019,Edmonton Strathcona,Liberal,7.6,NA
+48019,Edmonton Strathcona,Other,4.5,NA
+48019,Edmonton Strathcona,Green Party,1.2,NA
+48019,Edmonton Strathcona,Other,0.5,NA
+48020,Edmonton West/Edmonton-Ouest,Conservative,45.1,19.8
+48020,Edmonton West/Edmonton-Ouest,NDP-New Democratic Party,25.3,NA
+48020,Edmonton West/Edmonton-Ouest,Liberal,23.2,NA
+48020,Edmonton West/Edmonton-Ouest,Other,6,NA
+48020,Edmonton West/Edmonton-Ouest,Other,0.3,NA
+48021,Edmonton--Wetaskiwin,Conservative,55.7,34.6
+48021,Edmonton--Wetaskiwin,NDP-New Democratic Party,21,NA
+48021,Edmonton--Wetaskiwin,Liberal,14.1,NA
+48021,Edmonton--Wetaskiwin,Other,8.8,NA
+48021,Edmonton--Wetaskiwin,Other,0.4,NA
+48022,Foothills,Conservative,69.2,58.1
+48022,Foothills,NDP-New Democratic Party,11.1,NA
+48022,Foothills,Other,8,NA
+48022,Foothills,Liberal,6.9,NA
+48022,Foothills,Other,3.6,NA
+48022,Foothills,Green Party,1.2,NA
+48023,Fort McMurray--Cold Lake,Conservative,67.8,55.1
+48023,Fort McMurray--Cold Lake,Other,12.7,NA
+48023,Fort McMurray--Cold Lake,NDP-New Democratic Party,10.1,NA
+48023,Fort McMurray--Cold Lake,Liberal,7.1,NA
+48023,Fort McMurray--Cold Lake,Other,1.1,NA
+48023,Fort McMurray--Cold Lake,Green Party,1,NA
+48023,Fort McMurray--Cold Lake,Other,0.2,NA
+48024,Grande Prairie--Mackenzie,Conservative,68.4,56.3
+48024,Grande Prairie--Mackenzie,NDP-New Democratic Party,12.2,NA
+48024,Grande Prairie--Mackenzie,Other,10.2,NA
+48024,Grande Prairie--Mackenzie,Liberal,4.5,NA
+48024,Grande Prairie--Mackenzie,Other,4.1,NA
+48024,Grande Prairie--Mackenzie,Other,0.6,NA
+48025,Lakeland,Conservative,69.4,58.4
+48025,Lakeland,Other,11.1,NA
+48025,Lakeland,NDP-New Democratic Party,10.5,NA
+48025,Lakeland,Liberal,5,NA
+48025,Lakeland,Other,3.2,NA
+48025,Lakeland,Green Party,0.9,NA
+48026,Lethbridge,Conservative,55.6,36.3
+48026,Lethbridge,NDP-New Democratic Party,19.3,NA
+48026,Lethbridge,Liberal,15.1,NA
+48026,Lethbridge,Other,6.9,NA
+48026,Lethbridge,Other,2,NA
+48026,Lethbridge,Other,1,NA
+48027,Medicine Hat--Cardston--Warner,Conservative,65.4,51.3
+48027,Medicine Hat--Cardston--Warner,NDP-New Democratic Party,14.1,NA
+48027,Medicine Hat--Cardston--Warner,Other,9.3,NA
+48027,Medicine Hat--Cardston--Warner,Liberal,7.3,NA
+48027,Medicine Hat--Cardston--Warner,Other,2.5,NA
+48027,Medicine Hat--Cardston--Warner,Green Party,1.5,NA
+48028,Peace River--Westlock,Conservative,63,50.2
+48028,Peace River--Westlock,NDP-New Democratic Party,12.9,NA
+48028,Peace River--Westlock,Other,12.6,NA
+48028,Peace River--Westlock,Other,5.5,NA
+48028,Peace River--Westlock,Liberal,5.2,NA
+48028,Peace River--Westlock,Green Party,0.8,NA
+48030,Red Deer--Lacombe,Conservative,64.2,50
+48030,Red Deer--Lacombe,NDP-New Democratic Party,14.2,NA
+48030,Red Deer--Lacombe,Other,12.7,NA
+48030,Red Deer--Lacombe,Liberal,6,NA
+48030,Red Deer--Lacombe,Other,1.6,NA
+48030,Red Deer--Lacombe,Other,0.9,NA
+48030,Red Deer--Lacombe,Other,0.3,NA
+48029,Red Deer--Mountain View,Conservative,64.2,50.3
+48029,Red Deer--Mountain View,NDP-New Democratic Party,13.9,NA
+48029,Red Deer--Mountain View,Other,12,NA
+48029,Red Deer--Mountain View,Liberal,6.4,NA
+48029,Red Deer--Mountain View,Other,2.6,NA
+48029,Red Deer--Mountain View,Other,0.5,NA
+48029,Red Deer--Mountain View,Other,0.3,NA
+48031,St. Albert--Edmonton,Conservative,47.6,19
+48031,St. Albert--Edmonton,NDP-New Democratic Party,28.6,NA
+48031,St. Albert--Edmonton,Liberal,17.9,NA
+48031,St. Albert--Edmonton,Other,5.9,NA
+48032,Sherwood Park--Fort Saskatchewan,Conservative,57.6,36.9
+48032,Sherwood Park--Fort Saskatchewan,NDP-New Democratic Party,20.6,NA
+48032,Sherwood Park--Fort Saskatchewan,Liberal,12.2,NA
+48032,Sherwood Park--Fort Saskatchewan,Other,7,NA
+48032,Sherwood Park--Fort Saskatchewan,Other,1.2,NA
+48032,Sherwood Park--Fort Saskatchewan,Green Party,1,NA
+48032,Sherwood Park--Fort Saskatchewan,Other,0.4,NA
+48033,Sturgeon River--Parkland,Conservative,61.6,42.8
+48033,Sturgeon River--Parkland,NDP-New Democratic Party,18.9,NA
+48033,Sturgeon River--Parkland,Other,10,NA
+48033,Sturgeon River--Parkland,Liberal,6.9,NA
+48033,Sturgeon River--Parkland,Other,1.9,NA
+48033,Sturgeon River--Parkland,Other,0.7,NA
+48034,Yellowhead,Conservative,66.2,53.4
+48034,Yellowhead,Other,12.7,NA
+48034,Yellowhead,NDP-New Democratic Party,11.8,NA
+48034,Yellowhead,Liberal,5.6,NA
+48034,Yellowhead,Other,3.5,NA
+48034,Yellowhead,Other,0.3,NA
+59001,Abbotsford,Conservative,47.9,23.7
+59001,Abbotsford,Liberal,24.2,NA
+59001,Abbotsford,NDP-New Democratic Party,17.2,NA
+59001,Abbotsford,Other,7.3,NA
+59001,Abbotsford,Green Party,3.4,NA
+59002,Burnaby North--Seymour/Burnaby-Nord--Seymour,Liberal,39.5,10.4
+59002,Burnaby North--Seymour/Burnaby-Nord--Seymour,NDP-New Democratic Party,29.1,NA
+59002,Burnaby North--Seymour/Burnaby-Nord--Seymour,Conservative,25.5,NA
+59002,Burnaby North--Seymour/Burnaby-Nord--Seymour,Green Party,3.1,NA
+59002,Burnaby North--Seymour/Burnaby-Nord--Seymour,Other,2.8,NA
+59003,Burnaby South/Burnaby-Sud,NDP-New Democratic Party,40.3,9.9
+59003,Burnaby South/Burnaby-Sud,Liberal,30.4,NA
+59003,Burnaby South/Burnaby-Sud,Conservative,22.4,NA
+59003,Burnaby South/Burnaby-Sud,Other,3.2,NA
+59003,Burnaby South/Burnaby-Sud,Green Party,2.9,NA
+59003,Burnaby South/Burnaby-Sud,Other,0.7,NA
+59004,Cariboo--Prince George,Conservative,50.8,30.5
+59004,Cariboo--Prince George,NDP-New Democratic Party,20.4,NA
+59004,Cariboo--Prince George,Liberal,16.6,NA
+59004,Cariboo--Prince George,Other,8.2,NA
+59004,Cariboo--Prince George,Green Party,3.6,NA
+59004,Cariboo--Prince George,Other,0.4,NA
+59005,Central Okanagan--Similkameen--Nicola,Conservative,47.6,26.1
+59005,Central Okanagan--Similkameen--Nicola,NDP-New Democratic Party,21.5,NA
+59005,Central Okanagan--Similkameen--Nicola,Liberal,20.7,NA
+59005,Central Okanagan--Similkameen--Nicola,Other,7.5,NA
+59005,Central Okanagan--Similkameen--Nicola,Green Party,2.7,NA
+59006,Chilliwack--Hope,Conservative,46,19.3
+59006,Chilliwack--Hope,NDP-New Democratic Party,26.7,NA
+59006,Chilliwack--Hope,Liberal,17,NA
+59006,Chilliwack--Hope,Other,7.7,NA
+59006,Chilliwack--Hope,Green Party,2.7,NA
+59007,Cloverdale--Langley City,Liberal,39.2,3.1
+59007,Cloverdale--Langley City,Conservative,36.1,NA
+59007,Cloverdale--Langley City,NDP-New Democratic Party,19.9,NA
+59007,Cloverdale--Langley City,Other,4.8,NA
+59008,Coquitlam--Port Coquitlam,Liberal,38.5,8.2
+59008,Coquitlam--Port Coquitlam,Conservative,30.3,NA
+59008,Coquitlam--Port Coquitlam,NDP-New Democratic Party,26.9,NA
+59008,Coquitlam--Port Coquitlam,Other,4.3,NA
+59009,Courtenay--Alberni,NDP-New Democratic Party,44.2,12.2
+59009,Courtenay--Alberni,Conservative,32,NA
+59009,Courtenay--Alberni,Liberal,13.4,NA
+59009,Courtenay--Alberni,Green Party,5.2,NA
+59009,Courtenay--Alberni,Other,5,NA
+59009,Courtenay--Alberni,Other,0.2,NA
+59010,Cowichan--Malahat--Langford,NDP-New Democratic Party,42.8,14.4
+59010,Cowichan--Malahat--Langford,Conservative,28.4,NA
+59010,Cowichan--Malahat--Langford,Liberal,16.4,NA
+59010,Cowichan--Malahat--Langford,Other,6.3,NA
+59010,Cowichan--Malahat--Langford,Green Party,6.2,NA
+59011,Delta,Liberal,42.3,8.4
+59011,Delta,Conservative,33.8,NA
+59011,Delta,NDP-New Democratic Party,18.3,NA
+59011,Delta,Other,2.5,NA
+59011,Delta,Green Party,2.4,NA
+59011,Delta,Other,0.7,NA
+59026,Esquimalt--Saanich--Sooke,NDP-New Democratic Party,42.8,20.7
+59026,Esquimalt--Saanich--Sooke,Liberal,22.1,NA
+59026,Esquimalt--Saanich--Sooke,Conservative,21.2,NA
+59026,Esquimalt--Saanich--Sooke,Green Party,9,NA
+59026,Esquimalt--Saanich--Sooke,Other,4.6,NA
+59026,Esquimalt--Saanich--Sooke,Other,0.4,NA
+59012,Fleetwood--Port Kells,Liberal,45.2,14.4
+59012,Fleetwood--Port Kells,Conservative,30.8,NA
+59012,Fleetwood--Port Kells,NDP-New Democratic Party,19,NA
+59012,Fleetwood--Port Kells,Other,2.7,NA
+59012,Fleetwood--Port Kells,Green Party,1.9,NA
+59012,Fleetwood--Port Kells,Other,0.3,NA
+59013,Kamloops--Thompson--Cariboo,Conservative,43,14
+59013,Kamloops--Thompson--Cariboo,NDP-New Democratic Party,29,NA
+59013,Kamloops--Thompson--Cariboo,Liberal,18.1,NA
+59013,Kamloops--Thompson--Cariboo,Other,5.7,NA
+59013,Kamloops--Thompson--Cariboo,Green Party,3.7,NA
+59013,Kamloops--Thompson--Cariboo,Other,0.4,NA
+59013,Kamloops--Thompson--Cariboo,Other,0.2,NA
+59014,Kelowna--Lake Country,Conservative,45.3,18.8
+59014,Kelowna--Lake Country,Liberal,26.5,NA
+59014,Kelowna--Lake Country,NDP-New Democratic Party,18.2,NA
+59014,Kelowna--Lake Country,Other,7,NA
+59014,Kelowna--Lake Country,Green Party,3.1,NA
+59015,Kootenay--Columbia,Conservative,43.2,6.3
+59015,Kootenay--Columbia,NDP-New Democratic Party,36.9,NA
+59015,Kootenay--Columbia,Liberal,9,NA
+59015,Kootenay--Columbia,Other,6.9,NA
+59015,Kootenay--Columbia,Green Party,4,NA
+59016,Langley--Aldergrove,Conservative,45.7,19.3
+59016,Langley--Aldergrove,Liberal,26.4,NA
+59016,Langley--Aldergrove,NDP-New Democratic Party,19.6,NA
+59016,Langley--Aldergrove,Other,5.3,NA
+59016,Langley--Aldergrove,Green Party,2.9,NA
+59017,Mission--Matsqui--Fraser Canyon,Conservative,43.8,19.2
+59017,Mission--Matsqui--Fraser Canyon,Liberal,24.5,NA
+59017,Mission--Matsqui--Fraser Canyon,NDP-New Democratic Party,20.2,NA
+59017,Mission--Matsqui--Fraser Canyon,Other,7.1,NA
+59017,Mission--Matsqui--Fraser Canyon,Green Party,4.4,NA
+59018,Nanaimo--Ladysmith,NDP-New Democratic Party,28.8,1.7
+59018,Nanaimo--Ladysmith,Conservative,27.1,NA
+59018,Nanaimo--Ladysmith,Green Party,25.7,NA
+59018,Nanaimo--Ladysmith,Liberal,13.5,NA
+59018,Nanaimo--Ladysmith,Other,4.9,NA
+59019,New Westminster--Burnaby,NDP-New Democratic Party,48.8,25.1
+59019,New Westminster--Burnaby,Liberal,23.7,NA
+59019,New Westminster--Burnaby,Conservative,19.7,NA
+59019,New Westminster--Burnaby,Green Party,4.1,NA
+59019,New Westminster--Burnaby,Other,3.7,NA
+59037,North Island--Powell River,NDP-New Democratic Party,39.5,3.6
+59037,North Island--Powell River,Conservative,36,NA
+59037,North Island--Powell River,Liberal,13.1,NA
+59037,North Island--Powell River,Green Party,6.1,NA
+59037,North Island--Powell River,Other,4.6,NA
+59037,North Island--Powell River,Other,0.5,NA
+59037,North Island--Powell River,Other,0.1,NA
+59020,North Okanagan--Shuswap,Conservative,46.4,27.2
+59020,North Okanagan--Shuswap,NDP-New Democratic Party,19.2,NA
+59020,North Okanagan--Shuswap,Liberal,18.9,NA
+59020,North Okanagan--Shuswap,Other,10,NA
+59020,North Okanagan--Shuswap,Green Party,5.5,NA
+59021,North Vancouver,Liberal,45.1,17
+59021,North Vancouver,Conservative,28.1,NA
+59021,North Vancouver,NDP-New Democratic Party,19.8,NA
+59021,North Vancouver,Green Party,4.4,NA
+59021,North Vancouver,Other,2.6,NA
+59022,Pitt Meadows--Maple Ridge,Conservative,36.7,4.7
+59022,Pitt Meadows--Maple Ridge,NDP-New Democratic Party,31.9,NA
+59022,Pitt Meadows--Maple Ridge,Liberal,24.9,NA
+59022,Pitt Meadows--Maple Ridge,Other,5.3,NA
+59022,Pitt Meadows--Maple Ridge,Other,0.9,NA
+59022,Pitt Meadows--Maple Ridge,Other,0.3,NA
+59023,Port Moody--Coquitlam,NDP-New Democratic Party,37.2,5.3
+59023,Port Moody--Coquitlam,Conservative,31.9,NA
+59023,Port Moody--Coquitlam,Liberal,27.3,NA
+59023,Port Moody--Coquitlam,Other,3.4,NA
+59023,Port Moody--Coquitlam,Other,0.2,NA
+59024,Prince George--Peace River--Northern Rockies,Conservative,60.7,47.2
+59024,Prince George--Peace River--Northern Rockies,NDP-New Democratic Party,13.5,NA
+59024,Prince George--Peace River--Northern Rockies,Other,10.4,NA
+59024,Prince George--Peace River--Northern Rockies,Liberal,8.6,NA
+59024,Prince George--Peace River--Northern Rockies,Green Party,3.4,NA
+59024,Prince George--Peace River--Northern Rockies,Other,3.2,NA
+59024,Prince George--Peace River--Northern Rockies,Other,0.1,NA
+59025,Richmond Centre/Richmond-Centre,Liberal,39.3,2.3
+59025,Richmond Centre/Richmond-Centre,Conservative,37.1,NA
+59025,Richmond Centre/Richmond-Centre,NDP-New Democratic Party,18.1,NA
+59025,Richmond Centre/Richmond-Centre,Green Party,3.2,NA
+59025,Richmond Centre/Richmond-Centre,Other,2.2,NA
+59027,Saanich--Gulf Islands,Green Party,37.6,15.1
+59027,Saanich--Gulf Islands,Conservative,22.5,NA
+59027,Saanich--Gulf Islands,Liberal,18.4,NA
+59027,Saanich--Gulf Islands,NDP-New Democratic Party,18.3,NA
+59027,Saanich--Gulf Islands,Other,3,NA
+59027,Saanich--Gulf Islands,Other,0.2,NA
+59028,Skeena--Bulkley Valley,NDP-New Democratic Party,42.6,6.4
+59028,Skeena--Bulkley Valley,Conservative,36.1,NA
+59028,Skeena--Bulkley Valley,Other,7.7,NA
+59028,Skeena--Bulkley Valley,Liberal,7.7,NA
+59028,Skeena--Bulkley Valley,Green Party,3.8,NA
+59028,Skeena--Bulkley Valley,Other,2.1,NA
+59029,South Okanagan--West Kootenay/Okanagan-Sud--Kootenay-Ouest,NDP-New Democratic Party,41.3,5.9
+59029,South Okanagan--West Kootenay/Okanagan-Sud--Kootenay-Ouest,Conservative,35.5,NA
+59029,South Okanagan--West Kootenay/Okanagan-Sud--Kootenay-Ouest,Liberal,12.2,NA
+59029,South Okanagan--West Kootenay/Okanagan-Sud--Kootenay-Ouest,Other,7.3,NA
+59029,South Okanagan--West Kootenay/Okanagan-Sud--Kootenay-Ouest,Green Party,3.7,NA
+59030,South Surrey--White Rock/Surrey-Sud--White Rock,Conservative,42.5,3.5
+59030,South Surrey--White Rock/Surrey-Sud--White Rock,Liberal,39,NA
+59030,South Surrey--White Rock/Surrey-Sud--White Rock,NDP-New Democratic Party,14.8,NA
+59030,South Surrey--White Rock/Surrey-Sud--White Rock,Other,3.8,NA
+59031,Steveston--Richmond East/Steveston--Richmond-Est,Liberal,42.5,8.9
+59031,Steveston--Richmond East/Steveston--Richmond-Est,Conservative,33.5,NA
+59031,Steveston--Richmond East/Steveston--Richmond-Est,NDP-New Democratic Party,19.3,NA
+59031,Steveston--Richmond East/Steveston--Richmond-Est,Other,2.5,NA
+59031,Steveston--Richmond East/Steveston--Richmond-Est,Green Party,2.2,NA
+59032,Surrey Centre/Surrey-Centre,Liberal,43.9,16.2
+59032,Surrey Centre/Surrey-Centre,NDP-New Democratic Party,27.7,NA
+59032,Surrey Centre/Surrey-Centre,Conservative,21.1,NA
+59032,Surrey Centre/Surrey-Centre,Other,4,NA
+59032,Surrey Centre/Surrey-Centre,Green Party,2.2,NA
+59032,Surrey Centre/Surrey-Centre,Other,0.8,NA
+59032,Surrey Centre/Surrey-Centre,Other,0.4,NA
+59033,Surrey--Newton,Liberal,53.9,27.8
+59033,Surrey--Newton,NDP-New Democratic Party,26,NA
+59033,Surrey--Newton,Conservative,15.7,NA
+59033,Surrey--Newton,Other,2.6,NA
+59033,Surrey--Newton,Other,1.7,NA
+59034,Vancouver Centre/Vancouver-Centre,Liberal,40.4,9.7
+59034,Vancouver Centre/Vancouver-Centre,NDP-New Democratic Party,30.7,NA
+59034,Vancouver Centre/Vancouver-Centre,Conservative,21.6,NA
+59034,Vancouver Centre/Vancouver-Centre,Green Party,3.9,NA
+59034,Vancouver Centre/Vancouver-Centre,Other,3.3,NA
+59035,Vancouver East/Vancouver-Est,NDP-New Democratic Party,56.4,36.6
+59035,Vancouver East/Vancouver-Est,Liberal,19.8,NA
+59035,Vancouver East/Vancouver-Est,Conservative,10.9,NA
+59035,Vancouver East/Vancouver-Est,Green Party,7.7,NA
+59035,Vancouver East/Vancouver-Est,Other,2.8,NA
+59035,Vancouver East/Vancouver-Est,Other,1.7,NA
+59035,Vancouver East/Vancouver-Est,Other,0.8,NA
+59036,Vancouver Granville,Liberal,34.4,0.9
+59036,Vancouver Granville,NDP-New Democratic Party,33.5,NA
+59036,Vancouver Granville,Conservative,26.8,NA
+59036,Vancouver Granville,Green Party,2.9,NA
+59036,Vancouver Granville,Other,2.4,NA
+59038,Vancouver Kingsway,NDP-New Democratic Party,52.3,24.8
+59038,Vancouver Kingsway,Liberal,27.4,NA
+59038,Vancouver Kingsway,Conservative,13.6,NA
+59038,Vancouver Kingsway,Green Party,3.9,NA
+59038,Vancouver Kingsway,Other,2.2,NA
+59038,Vancouver Kingsway,Other,0.4,NA
+59038,Vancouver Kingsway,Other,0.2,NA
+59039,Vancouver Quadra,Liberal,43.6,14.7
+59039,Vancouver Quadra,Conservative,28.9,NA
+59039,Vancouver Quadra,NDP-New Democratic Party,19.3,NA
+59039,Vancouver Quadra,Green Party,6.1,NA
+59039,Vancouver Quadra,Other,2,NA
+59040,Vancouver South/Vancouver-Sud,Liberal,49.4,24.8
+59040,Vancouver South/Vancouver-Sud,NDP-New Democratic Party,24.6,NA
+59040,Vancouver South/Vancouver-Sud,Conservative,22.5,NA
+59040,Vancouver South/Vancouver-Sud,Other,2.7,NA
+59040,Vancouver South/Vancouver-Sud,Other,0.7,NA
+59041,Victoria,NDP-New Democratic Party,43.9,16.6
+59041,Victoria,Liberal,27.3,NA
+59041,Victoria,Conservative,13.7,NA
+59041,Victoria,Green Party,11.2,NA
+59041,Victoria,Other,3.1,NA
+59041,Victoria,Other,0.4,NA
+59041,Victoria,Other,0.4,NA
+59042,West Vancouver--Sunshine Coast--Sea to Sky Country,Liberal,33.9,3.8
+59042,West Vancouver--Sunshine Coast--Sea to Sky Country,Conservative,30,NA
+59042,West Vancouver--Sunshine Coast--Sea to Sky Country,NDP-New Democratic Party,25.6,NA
+59042,West Vancouver--Sunshine Coast--Sea to Sky Country,Green Party,6.5,NA
+59042,West Vancouver--Sunshine Coast--Sea to Sky Country,Other,3.6,NA
+59042,West Vancouver--Sunshine Coast--Sea to Sky Country,Other,0.2,NA
+59042,West Vancouver--Sunshine Coast--Sea to Sky Country,Other,0.1,NA
+59042,West Vancouver--Sunshine Coast--Sea to Sky Country,Other,0.1,NA
+60001,Yukon,Liberal,33.3,7.1
+60001,Yukon,Conservative,26.3,NA
+60001,Yukon,NDP-New Democratic Party,22.4,NA
+60001,Yukon,Other,13.6,NA
+60001,Yukon,Green Party,4.4,NA
+61001,Northwest Territories/Territoires du Nord-Ouest,Liberal,38.2,5.9
+61001,Northwest Territories/Territoires du Nord-Ouest,NDP-New Democratic Party,32.3,NA
+61001,Northwest Territories/Territoires du Nord-Ouest,Conservative,14.4,NA
+61001,Northwest Territories/Territoires du Nord-Ouest,Other,12.7,NA
+61001,Northwest Territories/Territoires du Nord-Ouest,Green Party,2.3,NA
+62001,Nunavut,NDP-New Democratic Party,47.7,11.8
+62001,Nunavut,Liberal,35.9,NA
+62001,Nunavut,Conservative,16.5,NA

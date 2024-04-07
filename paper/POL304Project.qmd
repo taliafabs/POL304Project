@@ -1,10 +1,11 @@
 ---
-title: "My title"
-subtitle: "My subtitle if needed"
+title: "Quantifying Strategic Voting in Canadian Elections With Difference-in-Difference"
+subtitle: "POL304H1 Assignment 3"
 author: 
-  - First author
-  - Another author
-thanks: "Code and data are available at: https://github.com/taliafabs/POL304Project.git."
+  - Talia Fabregas
+# thanks: "Code and data are available at: https://github.com/taliafabs/POL304Project.git"
+header-includes:
+  - \usepackage{float}
 date: today
 date-format: long
 abstract: "First sentence. Second sentence. Third sentence. Fourth sentence."
@@ -13,209 +14,334 @@ number-sections: true
 bibliography: references.bib
 ---
 
+# Research Question
+
+Does a close margin between the Liberals and Conservatives increase strategic voting in subsequent elections? Word count: 15
+
+# Previous Literature
+
+I selected Dylan Anderson’s 2022 article, titled: The ‘Tipping Point of a Strategic Vote: When Does an Individual Vote Strategically?” This article tests the theory that there is a quantitative “tipping point” for when predictors of strategic voting (preference and viability rating for preferred party, and distance from contention) will cause a third-party supporter to shift their vote from their preferred party to their favorite competitive party. In Canada, right-leaning voters generally support the Conservatives, and left-leaning voters are more likely to switch between the Liberals, NDP, and to a lesser extent, the Green party [@anderson2022]. @anderson2022 found comparable quantitative “tipping points” for when the probability of third-party supporters in Canada and the UK crosses 50 percent. Word count: 97
+
+# Theory
+
+Strategic considerations influence vote choice, but to a lesser extent than party affiliation [@blais2002]. Strategic voting has increased in recent years, and while most third-party supporters vote sincerely, they are more likely to vote strategically if the race between the top two candidates is close, their preferred candidate is uncompetitive, and their second-choice candidate is ideologically similar [@merolla2007]. Ideological distance between the two competitive parties increases the likelihood that third-party supporters will vote strategically because it increases how much they like their second choice and dislike their last choice [@daost2018]. In Canada, the Conservative party attracts right-leaning voters; left-leaning voters are split between the Liberal party, NDP, and to a lesser extent, the Green party [@anderson2022]. This means that we can expect a decrease in NDP vote share in historically Liberal-Conservative battleground ridings where third-party candidates are expected to perform poorly. Word count: 141
+
+# Improvement on the Previous Literature
+
+This study aims to build on the widely accepted predictors of strategic voting and the tipping point theory by quantifying strategic voting in Canadian elections. I will evaluate the causal effect over time of a close race between the Liberals and Conservatives on NDP support at the riding level. Word count: 49
+
+# Hypothesis
+
+A close race between the Liberals and Conservatives causes a decrease in NDP vote share. Word count: 15
+
+# Data
+
+My data set is Elections Canada official results from the 42nd, 43rd, and 44th general elections. My unit of analysis is election results at the riding level. The independent variable is the margin between the Liberal and Conservative candidates in 2019, while the dependent variable is the difference between NDP vote share in 2015 and 2021. Using difference-in-difference, I compare ridings where the margin was \<5 percentage points (treatment) with others (control), where the top two candidates were Liberal and Conservative in 2019. If my hypothesis is correct, we will see that a close race between the Liberals and Conservatives causes NDP support to decrease. Word count: 100
+
+# Data Cleaning and Analysis
+
+Data cleaning and analysis were done using R programming language and the `dplyr` and `janitor` packages [@citeR]. My code and data are available at: https://github.com/taliafabs/POL304Project.git
+
 ```{r}
-#| include: false
+#| echo: false
 #| warning: false
 #| message: false
+#| include: false
+#| eval: true
 
 library(tidyverse)
-library(palmerpenguins)
+library(janitor)
+library(dplyr)
+library(readr)
+library(kableExtra)
+library(ggplot2)
+library(broom)
+
+# Read in the data
+data2015 <- read_csv("/Users/talia/POL304Project/data/analysis_data/cleaned_data_2015")
+data2019 <- read_csv("/Users/talia/POL304Project/data/analysis_data/cleaned_data_2019")
+data2021 <- read_csv("/Users/talia/POL304Project/data/analysis_data/cleaned_data_2021")
 ```
 
-
-# Introduction
-
-You can and should cross-reference sections and sub-sections. We use @citeR and @rohan.
-
-The remainder of this paper is structured as follows. @sec-data....
-
-
-
-# Data {#sec-data}
-
-Some of our data is of penguins (@fig-bills), from @palmerpenguins.
-
 ```{r}
-#| label: fig-bills
-#| fig-cap: Bills of penguins
-#| echo: false
-
-ggplot(penguins, aes(x = island, fill = species)) +
-  geom_bar(alpha = 0.8) +
-  scale_fill_manual(values = c("darkorange","purple","cyan4"),
-                    guide = "none") +
-  theme_minimal() +
-  facet_wrap(~species, ncol = 1) +
-  coord_flip()
-```
-
-Talk more about it.
-
-And also planes (@fig-planes). (You can change the height and width, but don't worry about doing that until you have finished every other aspect of the paper - Quarto will try to make it look nice and the defaults usually work well once you have enough text.)
-
-```{r}
-#| label: fig-planes
-#| fig-cap: Relationship between wing length and width
 #| echo: false
 #| warning: false
 #| message: false
+#| include: false
+#| eval: true
 
-analysis_data <- read_csv(here::here("data/analysis_data/analysis_data.csv"))
+# find the ridings where the top two were Liberal and Conservative in 2019 to
+# determine treatment group
 
-analysis_data |> 
-  ggplot(aes(x = width, y = length)) +
-  geom_point(alpha = 0.8) +
-  theme_minimal() +
-  labs(x = "Wing width (mm)",
-       y = "Wing length (mm)")
+riding_summary <- data2019 %>%
+  group_by(riding_num) %>%
+  summarise(top_party = first(party),
+            second_party = ifelse(n() > 1, nth(party, 2), NA))
+
+# find the ridings where the top two parties are liberal and conservative
+liberal_ridings <- riding_summary |>
+  filter(top_party == "Liberal" & second_party == "Conservative") 
+
+# conservative first place liberal second place
+conservative_ridings <- riding_summary |>
+  filter(top_party == "Conservative" & second_party == "Liberal")
+
+included_ridings <- bind_rows(liberal_ridings, conservative_ridings)
+
+# determine the treatment and control groups
+
+treatment <- data2019 |>
+  filter(!is.na(percentage_point_margin) & percentage_point_margin < 5) |>
+  select(riding_num, riding_name, percentage_point_margin)
+
+treatment_ridings <- included_ridings |>
+  filter(riding_num %in% treatment$riding_num)
+
+treatment_ridings <- merge(treatment_ridings, data2019) |>
+  filter(!is.na(percentage_point_margin)) |>
+  select(riding_num, riding_name, top_party, second_party, percentage_point_margin)
+
+control_ridings <- included_ridings |>
+  filter(!(riding_num %in% treatment$riding_num))
+
+control_ridings <- merge(control_ridings, data2019) |>
+  filter(!is.na(percentage_point_margin)) |>
+  select(riding_num, riding_name, top_party, second_party, percentage_point_margin)
+
+## 2015 data
+
+treatment2015 <- data2015 |> 
+  filter(riding_num %in% treatment_ridings$riding_num)
+
+control2015 <- data2015 |>
+  filter(riding_num %in% control_ridings$riding_num)
+
+
+## 2021 data
+treatment2021 <- data2021 |>
+  filter(riding_num %in% treatment_ridings$riding_num)
+
+control2021 <- data2021 |>
+  filter(riding_num %in% control_ridings$riding_num)
+  
 ```
 
-Talk way more about it. 
+<!-- @tbl-before shows the average NDP vote share in competitive vs non-competitive ridings in 2015. @tbl-after shows these same results for the 2021 election. -->
 
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+#| eval: true
+#| include: false
 
+treatment2015_ndp <- treatment2015 |>
+  filter(party == "NDP-New Democratic Party")
 
-# Model
+control2015_ndp <- control2015 |>
+  filter(party == "NDP-New Democratic Party")
 
-The goal of our modelling strategy is twofold. Firstly,...
+treatment2021_ndp <- treatment2021 |>
+  filter(party == "NDP-New Democratic Party")
 
-Here we briefly describe the Bayesian analysis model used to investigate... Background details and diagnostics are included in [Appendix -@sec-model-details].
+control2021_ndp <- control2021 |>
+  filter(party == "NDP-New Democratic Party")
 
-## Model set-up
-
-Define $y_i$ as the number of seconds that the plane remained aloft. Then $\beta_i$ is the wing width and $\gamma_i$ is the wing length, both measured in millimeters.  
-
-\begin{align} 
-y_i|\mu_i, \sigma &\sim \mbox{Normal}(\mu_i, \sigma) \\
-\mu_i &= \alpha + \beta_i + \gamma_i\\
-\alpha &\sim \mbox{Normal}(0, 2.5) \\
-\beta &\sim \mbox{Normal}(0, 2.5) \\
-\gamma &\sim \mbox{Normal}(0, 2.5) \\
-\sigma &\sim \mbox{Exponential}(1)
-\end{align}
-
-We run the model in R [@citeR] using the `rstanarm` package of @rstanarm. We use the default priors from `rstanarm`.
-
-
-### Model justification
-
-We expect a positive relationship between the size of the wings and time spent aloft. In particular...
-
-We can use maths by including latex between dollar signs, for instance $\theta$.
-
+# these are the means that need to be looked at
+# mean(treatment2015_ndp$percent_votes_received)
+# mean(control2015_ndp$percent_votes_received)
+# mean(treatment2021_ndp$percent_votes_received)
+# mean(control2021_ndp$percent_votes_received)
+```
 
 # Results
+The sample average treatment effect (SATT), which is the difference for the treatment ridings minus the difference for the control ridings, is -2.16, as shown in @tbl-diff. The counter-factual outcome, shown in @fig-DDvisual shows the average NDP vote share that we would have observed in treatment ridings if there were no close races. The average estimated causal effect for ridings with a close margin is shown by the gap between the treatment group and the counter-factual outcomes in @fig-DDvisual. These results are consistent with the theory that close races have a negative effect on third-party vote share.
+Word count: 97
 
-Our results are summarized in @tbl-modelresults.
-
-```{r}
+```{r tbl-before}
 #| echo: false
-#| eval: true
 #| warning: false
 #| message: false
+#| eval: true
+#| label: tbl-before
+#| tbl-cap: Mean NDP Vote Share for Treatment and Control Ridings, 2015
 
-library(rstanarm)
+ndp_2015 <- data.frame(
+  Treatment = mean(treatment2015_ndp$percent_votes_received),
+  Control = mean(control2015_ndp$percent_votes_received)
+)
 
-first_model <-
-  readRDS(file = here::here("models/first_model.rds"))
+kable(ndp_2015) %>%
+  kable_styling(latex_options = "HOLD_position")
+```
+
+
+```{r tbl-after}
+#| echo: false
+#| warning: false
+#| message: false
+#| eval: true
+#| label: tbl-after
+#| tbl-cap: Mean NDP Vote Share for Treatment and Control Ridings, 2021
+
+ndp_2021 <- data.frame(
+  Treatment = mean(treatment2021_ndp$percent_votes_received),
+  Control = mean(control2021_ndp$percent_votes_received)
+)
+
+kable(ndp_2021) %>%
+  kable_styling(latex_options = "HOLD_position")
+```
+
+```{r tbl-diff}
+#| echo: false
+#| warning: false
+#| message: false
+#| eval: true
+#| label: tbl-diff
+#| tbl-cap: Difference in mean NDP vote share for treatment and control groups and estimating sample average treatment effect for the treated (SATT)
+
+diff_treatment = mean(treatment2021_ndp$percent_votes_received) - mean(treatment2015_ndp$percent_votes_received)
+diff_control = mean(control2021_ndp$percent_votes_received) - mean(control2015_ndp$percent_votes_received)
+
+diff_table <- data.frame(
+  TreatmentDifference = round(diff_treatment, 2),
+  ControlDifference = round(diff_control, 2),
+  SATT = round(diff_treatment - diff_control, 2)
+)
+
+kable(diff_table) %>%
+  kable_styling(latex_options = "HOLD_position")
 ```
 
 ```{r}
 #| echo: false
-#| eval: true
-#| label: tbl-modelresults
-#| tbl-cap: "Explanatory models of flight time based on wing width and wing length"
 #| warning: false
+#| message: false
+#| eval: true
+#| include: false
 
-modelsummary::modelsummary(
-  list(
-    "First model" = first_model
-  ),
-  statistic = "mad",
-  fmt = 2
-)
+# counterfactual_outcome = mean(treatment2015_ndp$percent_votes_received) + 
+#   (mean(control2021_ndp$percent_votes_received) - mean(control2015_ndp$percent_votes_received))
+# 
+# cf_df <- data.frame(
+#   Treatment2015 = mean(treatment2015_ndp$percent_votes_received),
+#   CounterfactualOutcome = round(counterfactual_outcome,2),
+#   AverageEstimatedCausalEffect = round(mean(treatment2015_ndp$percent_votes_received) - counterfactual_outcome,2)
+# )
+# 
+# kable(cf_df) %>%
+#   kable_styling(latex_options = "HOLD_position")
 ```
 
+```{r fig-DDvisual}
+#| echo: false
+#| warning: false
+#| message: false
+#| eval: true
+#| label: fig-DDvisual
+#| fig-cap: Change in Average NDP Vote Share % for Treatment (Liberal vs Conservative margin <5 percentage points) and Control (Liberal vs Conservative margin >= 5) ridings before and after 2019 general election
 
+treatment2015 <- mean(treatment2015_ndp$percent_votes_received)
+treatment2021 <- mean(treatment2021_ndp$percent_votes_received)
 
+control2015 <- mean(control2015_ndp$percent_votes_received)
+control2021 <- mean(control2021_ndp$percent_votes_received)
+
+# dd_plot <- data.frame(
+#   treatment = c(treatment2015, tratement2021),
+#   
+# )
+
+df <- data.frame(
+  Year = c("2015 (Before)", "2021 (After)", "2015 (Before)", "2021 (After)"),
+  Group = rep(c("Treatment", "Control"), each = 2),
+  Mean_Vote_Share = c(treatment2015, treatment2021, control2015, control2021)
+)
+
+counterfactual_df <- data.frame(
+  Year = c("2015 (Before)", "2021 (After)"),
+  Group = rep("Counterfactual", each = 2),
+  Mean_Vote_Share = c(treatment2015, treatment2015 + (control2021 - control2015))
+)
+
+bracket_x <- "2015 (Before)"
+bracket_y <- treatment2015
+bracket_y_end <- "2021 (After)"
+
+# Plot the difference-in-difference using lines
+# ggplot(df, aes(x = Year, y = Mean_Vote_Share, color = Group, group = Group)) +
+#   geom_line() +
+#   geom_point(aes(shape = Group, fill = Group), size = 4) + 
+#   labs(title = "Visualizing Difference-in-Difference",
+#        y = "Average NDP Vote Share %") +
+#   scale_color_manual(values = c("Treatment" = "blue", "Control" = "red")) +
+#   scale_shape_manual(values = c("Treatment" = 19, "Control" = 1)) + 
+#   scale_fill_manual(values = c("Treatment" = "blue", "Control" = NA)) +
+#   scale_y_continuous(breaks = seq(12, 16.5, by = 0.5)) 
+
+ggplot(df, aes(x = Year, y = Mean_Vote_Share, color = Group, group = Group)) +
+  geom_line() +
+  geom_point(aes(shape = Group, fill = Group), size = 4) + 
+  geom_line(data = counterfactual_df, aes(group = Group), linetype = "dashed", color = "#333333") + 
+  geom_text(label = "Counterfactual", x = "2021 (After)", y = 17, vjust = -0.5, hjust = 0.5, color = "#333333", size=2.7) +
+  labs(title = "Visualizing Difference-in-Difference",
+       y = "Average NDP Vote Share %") +
+  scale_color_manual(values = c("Treatment" = "blue", "Control" = "red", "Counterfactual" = "#333333")) +
+  scale_shape_manual(values = c("Treatment" = 19, "Control" = 1, "Counterfactual" = NA)) + 
+  scale_fill_manual(values = c("Treatment" = "blue", "Control" = NA, "Counterfactual" = NA)) +
+  scale_y_continuous(breaks = seq(12, 25, by = 0.5)) +
+  theme_minimal() 
+```
+
+\newpage
 
 # Discussion
 
-## First discussion point {#sec-first-point}
+<!-- Yes, the results are what I expected. As seen in @fig-DDvisual, NDP vote share increased for the treatment and control ridings between 2015 and 2021, but treatment ridings (where there was a close race between the Liberals and Conservatives in 2019) saw less of an increase than control ridings (where the Liberal candidate defeated the Conservative candidate by more than 5 percentage points or vice versa), slightly higher vote share in control ridings in 2021.  -->
 
-If my paper were 10 pages, then should be be at least 2.5 pages. The discussion is a chance to show off what you know and what you learnt from all this. 
+# Endogeneity
 
-## Second discussion point
-
-## Third discussion point
-
-## Weaknesses and next steps
-
-Weaknesses and next steps should also be included.
-
-\newpage
-
-\appendix
-
-# Appendix {-}
-
-
-# Additional data details
-
-# Model details {#sec-model-details}
-
-## Posterior predictive check
-
-In @fig-ppcheckandposteriorvsprior-1 we implement a posterior predictive check. This shows...
-
-In @fig-ppcheckandposteriorvsprior-2 we compare the posterior with the prior. This shows... 
-
-```{r}
-#| eval: true
-#| echo: false
-#| message: false
-#| warning: false
-#| label: fig-ppcheckandposteriorvsprior
-#| layout-ncol: 2
-#| fig-cap: "Examining how the model fits, and is affected by, the data"
-#| fig-subcap: ["Posterior prediction check", "Comparing the posterior with the prior"]
-
-pp_check(first_model) +
-  theme_classic() +
-  theme(legend.position = "bottom")
-
-posterior_vs_prior(first_model) +
-  theme_minimal() +
-  scale_color_brewer(palette = "Set1") +
-  theme(legend.position = "bottom") +
-  coord_flip()
-```
-
-## Diagnostics
-
-@fig-stanareyouokay-1 is a trace plot. It shows... This suggests...
-
-@fig-stanareyouokay-2 is a Rhat plot. It shows... This suggests...
+There is reason to believe that the treatment exogeneity assumption holds. @tbl-coeff1 shows the estimated coefficients for the linear model where 2015 NDP vote share is a predictor for Liberal-Conservative margin in 2019. The estimated coefficient for ndp2015 is 0.0368 and the p-value is 0.3, which there is insufficient evidence to reject the null hypothesis that the coefficient is zero. Therefore
 
 ```{r}
 #| echo: false
-#| eval: true
-#| message: false
 #| warning: false
-#| label: fig-stanareyouokay
-#| fig-cap: "Checking the convergence of the MCMC algorithm"
-#| fig-subcap: ["Trace plot", "Rhat plot"]
-#| layout-ncol: 2
+#| message: false
+#| eval: true
+#| tbl-cap: Coefficient summary for linear model for Liberal vs Conservative margin in 2019 using NDP vote share in 2015 as a predictor
+#| label: tbl-coeff1
 
-plot(first_model, "trace")
+ndp_support_2015 <- treatment2015_ndp |>
+  select(riding_num, percent_votes_received) |>
+  rename(ndp2015 = percent_votes_received)
 
-plot(first_model, "rhat")
+margin2019 <- treatment |>
+  select(riding_num, percentage_point_margin) |>
+  rename(lc2019 = percentage_point_margin)
+
+merged_data1 <- merge(margin2019, ndp_support_2015) |>
+  select(riding_num, ndp2015, lc2019) |>
+  mutate(ndp_prop = ndp2015 / 100) |>
+  mutate(lc = lc2019 / 100)
+
+# see if ndp support in 2015 predicts margin in 2019
+
+model1 <- lm(lc2019 ~ ndp2015, data=merged_data1)
+# summary(model1)
+coefficient_summary <- tidy(model1)
+kable(coefficient_summary) %>%
+  kable_styling(latex_options = "HOLD_position")
+
+# treatment is exogeneous to the outcome
+# coefficient is 0.0368, very close to zero
+# p value of 0.3 > 0.05
+# ndp2015 not a predictor
+# insufficient evidence to reject null hypothesis that coefficient is zero
+# not statistically significant
+# suggests ndp2015 does not predict lc2019 margin
 ```
 
-
-
 \newpage
-
 
 # References
-
-
