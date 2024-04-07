@@ -8,7 +8,6 @@ header-includes:
   - \usepackage{float}
 date: today
 date-format: long
-abstract: "First sentence. Second sentence. Third sentence. Fourth sentence."
 format: pdf
 number-sections: true
 bibliography: references.bib
@@ -18,17 +17,21 @@ bibliography: references.bib
 
 Does a close margin between the Liberals and Conservatives increase strategic voting in subsequent elections? Word count: 15
 
+
 # Previous Literature
 
 I selected Dylan Anderson’s 2022 article, titled: The ‘Tipping Point of a Strategic Vote: When Does an Individual Vote Strategically?” This article tests the theory that there is a quantitative “tipping point” for when predictors of strategic voting (preference and viability rating for preferred party, and distance from contention) will cause a third-party supporter to shift their vote from their preferred party to their favorite competitive party. In Canada, right-leaning voters generally support the Conservatives, and left-leaning voters are more likely to switch between the Liberals, NDP, and to a lesser extent, the Green party [@anderson2022]. @anderson2022 found comparable quantitative “tipping points” for when the probability of third-party supporters in Canada and the UK crosses 50 percent. Word count: 97
+
 
 # Theory
 
 Strategic considerations influence vote choice, but to a lesser extent than party affiliation [@blais2002]. Strategic voting has increased in recent years, and while most third-party supporters vote sincerely, they are more likely to vote strategically if the race between the top two candidates is close, their preferred candidate is uncompetitive, and their second-choice candidate is ideologically similar [@merolla2007]. Ideological distance between the two competitive parties increases the likelihood that third-party supporters will vote strategically because it increases how much they like their second choice and dislike their last choice [@daost2018]. In Canada, the Conservative party attracts right-leaning voters; left-leaning voters are split between the Liberal party, NDP, and to a lesser extent, the Green party [@anderson2022]. This means that we can expect a decrease in NDP vote share in historically Liberal-Conservative battleground ridings where third-party candidates are expected to perform poorly. Word count: 141
 
+
 # Improvement on the Previous Literature
 
 This study aims to build on the widely accepted predictors of strategic voting and the tipping point theory by quantifying strategic voting in Canadian elections. I will evaluate the causal effect over time of a close race between the Liberals and Conservatives on NDP support at the riding level. Word count: 49
+
 
 # Hypothesis
 
@@ -154,9 +157,11 @@ control2021_ndp <- control2021 |>
 # mean(control2021_ndp$percent_votes_received)
 ```
 
+
 # Results
-The sample average treatment effect (SATT), which is the difference for the treatment ridings minus the difference for the control ridings, is -2.16, as shown in @tbl-diff. The counter-factual outcome, shown in @fig-DDvisual shows the average NDP vote share that we would have observed in treatment ridings if there were no close races. The average estimated causal effect for ridings with a close margin is shown by the gap between the treatment group and the counter-factual outcomes in @fig-DDvisual. These results are consistent with the theory that close races have a negative effect on third-party vote share.
-Word count: 97
+
+NDP vote share increased for the treatment and control ridings between 2015 and 2021, but to a lesser extent in treatment ridings. The sample average treatment effect (SATT), which is the difference for the treatment ridings minus the difference for the control ridings, is -2.16, as shown in @tbl-diff. The counter-factual outcome, shown in @fig-DDvisual shows the average NDP vote share that we would have observed in treatment ridings if there were no close races. The average estimated causal effect for ridings with a close margin is shown by the gap between the treatment and counter-factual outcomes in @fig-DDvisual.
+Word count: 99
 
 ```{r tbl-before}
 #| echo: false
@@ -297,12 +302,14 @@ ggplot(df, aes(x = Year, y = Mean_Vote_Share, color = Group, group = Group)) +
 \newpage
 
 # Discussion
-
-<!-- Yes, the results are what I expected. As seen in @fig-DDvisual, NDP vote share increased for the treatment and control ridings between 2015 and 2021, but treatment ridings (where there was a close race between the Liberals and Conservatives in 2019) saw less of an increase than control ridings (where the Liberal candidate defeated the Conservative candidate by more than 5 percentage points or vice versa), slightly higher vote share in control ridings in 2021.  -->
+I obtained results that I was expecting. The SATT is -2.16, and the counter-factual in @fig-DDvisual shows the average outcome that we would have observed if there were no close races. This is consistent with my hypothesis, which suggests that a close margin between the Liberals and Conservatives has a negative effect on NDP vote share. I believe that I obtained an expected result because difference-in-difference accounts for time-varying confounders and my assumption that treatment ridings would have experienced the same voting trends as control ridings in the absence of close margins in 2019 appears to hold. 
+Word count: 97
 
 # Endogeneity
 
-There is reason to believe that the treatment exogeneity assumption holds. @tbl-coeff1 shows the estimated coefficients for the linear model where 2015 NDP vote share is a predictor for Liberal-Conservative margin in 2019. The estimated coefficient for ndp2015 is 0.0368 and the p-value is 0.3, which there is insufficient evidence to reject the null hypothesis that the coefficient is zero. Therefore
+My research includes only ridings where the top two candidates in 2019 were Liberal and Conservative. This ensures that only battleground and strong Liberal or Conservative ridings were studied and rules out local NDP support as a confounder. I divided ridings into treatment and control groups based on whether the margin between the Liberal and Conservative candidates was <5 percentage points in 2019. 
+I used difference-in-difference to account for riding-specific and time varying confounders. I am confident that the parallel time trends assumption holds because I tested a small period and NDP vote share trends are consistent federally. I performed OLS regression in R to test the assumption that the treatment is exogeneous. As shown in @tbl-coeff1, the estimated slope coefficient for NDP vote share in 2015 is 0.0368, which is close to 0. The p-value is 0.3; there is insufficient evidence to reject the null hypothesis, which states that this coefficient is 0. This means NDP vote share in 2015 does not predict the margin between the Liberals and Conservatives in 2019. This helps rule out reverse causality; the independent variable is not a predictor for the dependent variable. 
+Word count: 190
 
 ```{r}
 #| echo: false
