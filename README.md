@@ -2,7 +2,8 @@
 
 ## Overview
 
-This repository contains the code and data associated with my POL304 final project. This repository was put together by Talia Fabregas. It uses the starter folder provided by Professor Rohan Alexander in STA302.
+This repository contains the code and data associated with my POL304 Using Data to Understand Politics and Society final project (Winter 2024 semester at the University of Toronto). 
+This repository was put together by Talia Fabregas. It uses the starter folder provided by Professor Rohan Alexander in STA302.
 
 The data that I used is Elections Canada Raw Data Summary Tables, "Table 11: Voting Results by Electoral District" for the 42nd, 43rd, and 44th general elections. The data can be found via the following links:
 
